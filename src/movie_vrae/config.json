@@ -1,0 +1,33 @@
+{
+  "seed": 17,
+  "data": {
+    "max_characters": 256,
+    "window_size": 5,
+    "test_fraction": 0.2,
+    "validation_fraction_of_development": 0.1
+  },
+  "model": {
+    "embedding_size": 128,
+    "hidden_size": 128,
+    "latent_size": 32,
+    "num_layers": 1,
+    "dropout": 0.1
+  },
+  "training": {
+    "batch_size": 8,
+    "epochs": 100,
+    "learning_rate": 0.001,
+    "weight_decay": 0.00001,
+    "kl_beta": 0.01,
+    "kl_warmup_epochs": 10,
+    "gradient_clip": 1.0,
+    "max_positive_weight": 100.0,
+    "early_stopping_patience": 15,
+    "num_workers": 0,
+    "cpu_threads": 4
+  },
+  "evaluation": {
+    "histogram_bins": 2048,
+    "top_k": [10, 25, 50]
+  }
+}

@@ -1,0 +1,5 @@
+numpy>=1.26
+matplotlib>=3.8
+torch>=2.2
+jupyter>=1.0
+pytest>=8.0
