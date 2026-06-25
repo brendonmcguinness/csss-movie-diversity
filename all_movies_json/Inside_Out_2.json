@@ -1,0 +1,787 @@
+{
+  "title": "Inside Out 2",
+  "year": 2024,
+  "genre": "Animation",
+  "box_office_usd": 1698863816,
+  "box_office_display": "$1,698,863,816",
+  "character_count": 68,
+  "scene_count": 50,
+  "character_ids": [
+    {
+      "name": "IN HQ",
+      "id": 0
+    },
+    {
+      "name": "JOY",
+      "id": 1
+    },
+    {
+      "name": "MOM",
+      "id": 2
+    },
+    {
+      "name": "RILEY",
+      "id": 3
+    },
+    {
+      "name": "ANGER",
+      "id": 4
+    },
+    {
+      "name": "FEAR",
+      "id": 5
+    },
+    {
+      "name": "DISGUST",
+      "id": 6
+    },
+    {
+      "name": "REFEREE",
+      "id": 7
+    },
+    {
+      "name": "SADNESS",
+      "id": 8
+    },
+    {
+      "name": "ANNOUNCER",
+      "id": 9
+    },
+    {
+      "name": "FEMALE TEACHER",
+      "id": 10
+    },
+    {
+      "name": "DAD",
+      "id": 11
+    },
+    {
+      "name": "MALE DENTIST",
+      "id": 12
+    },
+    {
+      "name": "GRACE",
+      "id": 13
+    },
+    {
+      "name": "BREE",
+      "id": 14
+    },
+    {
+      "name": "FOGHORNS",
+      "id": 15
+    },
+    {
+      "name": "COACH ROBERTS",
+      "id": 16
+    },
+    {
+      "name": "THE TUBE",
+      "id": 17
+    },
+    {
+      "name": "BEEP. BEEP",
+      "id": 18
+    },
+    {
+      "name": "FOREMAN",
+      "id": 19
+    },
+    {
+      "name": "MARGIE",
+      "id": 20
+    },
+    {
+      "name": "MOM'S ANGER",
+      "id": 21
+    },
+    {
+      "name": "MOM'S SADNESS",
+      "id": 22
+    },
+    {
+      "name": "MOM'S DISGUST",
+      "id": 23
+    },
+    {
+      "name": "MOM'S EMOTIONS",
+      "id": 24
+    },
+    {
+      "name": "BREE'S SADNESS",
+      "id": 25
+    },
+    {
+      "name": "BREE'S ANGER",
+      "id": 26
+    },
+    {
+      "name": "BREE'S DISGUST",
+      "id": 27
+    },
+    {
+      "name": "BREE'S JOY",
+      "id": 28
+    },
+    {
+      "name": "ZOOM INTO GRACE'S HEAD",
+      "id": 29
+    },
+    {
+      "name": "GRACE'S DISGUST",
+      "id": 30
+    },
+    {
+      "name": "GRACE'S FEAR",
+      "id": 31
+    },
+    {
+      "name": "GRACE'S ANGER",
+      "id": 32
+    },
+    {
+      "name": "VALENTINA",
+      "id": 33
+    },
+    {
+      "name": "ANXIETY",
+      "id": 34
+    },
+    {
+      "name": "ENVY",
+      "id": 35
+    },
+    {
+      "name": "PINK",
+      "id": 36
+    },
+    {
+      "name": "EMBARRASSMENT",
+      "id": 37
+    },
+    {
+      "name": "ENNUI",
+      "id": 38
+    },
+    {
+      "name": "NOSTALGIA",
+      "id": 39
+    },
+    {
+      "name": "FIRE HAWKS",
+      "id": 40
+    },
+    {
+      "name": "DANI",
+      "id": 41
+    },
+    {
+      "name": "CAMP GIRLS",
+      "id": 42
+    },
+    {
+      "name": "ALLY",
+      "id": 43
+    },
+    {
+      "name": "SOFIA",
+      "id": 44
+    },
+    {
+      "name": "EMOTIONS",
+      "id": 45
+    },
+    {
+      "name": "COP FRANK",
+      "id": 46
+    },
+    {
+      "name": "COP DAVE",
+      "id": 47
+    },
+    {
+      "name": "BLOOFY",
+      "id": 48
+    },
+    {
+      "name": "LANCE SLASHBLADE",
+      "id": 49
+    },
+    {
+      "name": "DEEP DARK SECRET",
+      "id": 50
+    },
+    {
+      "name": "POUCHY",
+      "id": 51
+    },
+    {
+      "name": "VAULT COP 1",
+      "id": 52
+    },
+    {
+      "name": "VAULT COP 2",
+      "id": 53
+    },
+    {
+      "name": "VAULT COP 3",
+      "id": 54
+    },
+    {
+      "name": "GUARD",
+      "id": 55
+    },
+    {
+      "name": "VISUALIZATION",
+      "id": 56
+    },
+    {
+      "name": "FANTASY RILEY",
+      "id": 57
+    },
+    {
+      "name": "FANTASY JOY IN HQ",
+      "id": 58
+    },
+    {
+      "name": "MIND WORKER FRITZ",
+      "id": 59
+    },
+    {
+      "name": "IS BURIED IN MEMORY BALLS",
+      "id": 60
+    },
+    {
+      "name": "TRIPLE-DENT GUM SONG",
+      "id": 61
+    },
+    {
+      "name": "MIND WORKER",
+      "id": 62
+    },
+    {
+      "name": "MIND WORKER 2",
+      "id": 63
+    },
+    {
+      "name": "NOUR",
+      "id": 64
+    },
+    {
+      "name": "FORGETTER PAULA",
+      "id": 65
+    },
+    {
+      "name": "FORGETTER BOBBY",
+      "id": 66
+    },
+    {
+      "name": "MIND NEWSIE",
+      "id": 67
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        4,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        12,
+        3,
+        6,
+        5,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        3,
+        13,
+        6,
+        5,
+        4,
+        0,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        6,
+        5,
+        4,
+        1,
+        3,
+        0,
+        11,
+        2,
+        9,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        3,
+        14,
+        16,
+        1,
+        5,
+        4,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        11,
+        3,
+        7,
+        8,
+        1,
+        0,
+        4,
+        5,
+        6,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        3,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        1,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        5,
+        6,
+        8,
+        4,
+        19,
+        20,
+        11,
+        2,
+        0,
+        3,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        13,
+        11,
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        2,
+        13,
+        14,
+        3,
+        4,
+        6,
+        8,
+        1,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        5,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        2,
+        14,
+        13,
+        3,
+        1,
+        0,
+        6,
+        8,
+        4,
+        33,
+        5,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "character_ids": [
+        33,
+        35,
+        6,
+        1,
+        40,
+        3,
+        5,
+        41,
+        34,
+        0,
+        14,
+        13,
+        16,
+        42,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        42,
+        43,
+        0,
+        34,
+        41,
+        33,
+        44,
+        37,
+        8,
+        35,
+        1,
+        3,
+        38,
+        5,
+        14,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        0,
+        34,
+        13,
+        33,
+        35,
+        4,
+        5,
+        45
+      ]
+    },
+    {
+      "character_ids": [
+        37,
+        35,
+        34,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        8,
+        4,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        46,
+        47,
+        4,
+        8,
+        6,
+        1,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        3,
+        6,
+        49,
+        1,
+        50,
+        48,
+        51,
+        4,
+        8,
+        47,
+        5,
+        52,
+        53,
+        54,
+        46
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        1,
+        4,
+        8,
+        55,
+        6,
+        56,
+        57,
+        58,
+        34
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        38,
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        38,
+        35,
+        34,
+        0,
+        3,
+        33,
+        16,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        8,
+        5,
+        6,
+        4,
+        59,
+        33,
+        35,
+        37,
+        34,
+        38,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        33,
+        43,
+        41,
+        16,
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        44,
+        34,
+        41,
+        33,
+        3,
+        0,
+        35,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        34,
+        35,
+        38,
+        37
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        5,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        33,
+        41,
+        43,
+        3,
+        34,
+        0,
+        37,
+        35,
+        8,
+        60,
+        61,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        1,
+        6,
+        4,
+        5,
+        62,
+        59,
+        63,
+        14,
+        35,
+        13,
+        34,
+        64,
+        43,
+        0,
+        33,
+        41
+      ]
+    },
+    {
+      "character_ids": [
+        34
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        1,
+        6,
+        65,
+        5,
+        66
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        35,
+        34,
+        38,
+        13,
+        14,
+        3,
+        8,
+        37
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        5,
+        6,
+        67
+      ]
+    }
+  ]
+}

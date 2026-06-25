@@ -1,0 +1,434 @@
+[
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "genre": "Romance",
+    "box_office_usd": 2264812968,
+    "characters": 25,
+    "scenes": 58,
+    "json_file": "all_movies/Titanic.json"
+  },
+  {
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "box_office_usd": 1046515409,
+    "characters": 37,
+    "scenes": 46,
+    "json_file": "all_movies/Star_Wars_Episode_I_-_The_Phantom_Menace.json"
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "genre": "Thriller",
+    "box_office_usd": 672806731,
+    "characters": 23,
+    "scenes": 64,
+    "json_file": "all_movies/The_Sixth_Sense.json"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "box_office_usd": 473328167,
+    "characters": 22,
+    "scenes": 142,
+    "json_file": "all_movies/The_Matrix.json"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "genre": "Fantasy",
+    "box_office_usd": 1029374615,
+    "characters": 48,
+    "scenes": 71,
+    "json_file": "all_movies/Harry_Potter_and_the_Sorcerer_s_Stone.json"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Fantasy",
+    "box_office_usd": 897519866,
+    "characters": 28,
+    "scenes": 80,
+    "json_file": "all_movies/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring.json"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "genre": "Animation",
+    "box_office_usd": 579773055,
+    "characters": 56,
+    "scenes": 94,
+    "json_file": "all_movies/Monsters_Inc.json"
+  },
+  {
+    "title": "Shrek",
+    "year": 2001,
+    "genre": "Animation",
+    "box_office_usd": 489652025,
+    "characters": 27,
+    "scenes": 17,
+    "json_file": "all_movies/Shrek.json"
+  },
+  {
+    "title": "Ocean's Eleven",
+    "year": 2001,
+    "genre": "Crime",
+    "box_office_usd": 450717527,
+    "characters": 39,
+    "scenes": 115,
+    "json_file": "all_movies/Ocean_s_Eleven.json"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genre": "Fantasy",
+    "box_office_usd": 1149453674,
+    "characters": 43,
+    "scenes": 91,
+    "json_file": "all_movies/The_Lord_of_the_Rings_The_Return_of_the_King.json"
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "genre": "Animation",
+    "box_office_usd": 941637960,
+    "characters": 64,
+    "scenes": 1,
+    "json_file": "all_movies/Finding_Nemo.json"
+  },
+  {
+    "title": "The Matrix Reloaded",
+    "year": 2003,
+    "genre": "Sci-Fi",
+    "box_office_usd": 741847937,
+    "characters": 62,
+    "scenes": 97,
+    "json_file": "all_movies/The_Matrix_Reloaded.json"
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "genre": "Adventure",
+    "box_office_usd": 654264546,
+    "characters": 30,
+    "scenes": 82,
+    "json_file": "all_movies/Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl.json"
+  },
+  {
+    "title": "Bruce Almighty",
+    "year": 2003,
+    "genre": "Comedy",
+    "box_office_usd": 484592874,
+    "characters": 47,
+    "scenes": 114,
+    "json_file": "all_movies/Bruce_Almighty.json"
+  },
+  {
+    "title": "The Matrix Revolutions",
+    "year": 2003,
+    "genre": "Sci-Fi",
+    "box_office_usd": 427344325,
+    "characters": 46,
+    "scenes": 126,
+    "json_file": "all_movies/The_Matrix_Revolutions.json"
+  },
+  {
+    "title": "X2: X-Men United",
+    "year": 2003,
+    "genre": "Action",
+    "box_office_usd": 407711549,
+    "characters": 57,
+    "scenes": 120,
+    "json_file": "all_movies/X2_X-Men_United.json"
+  },
+  {
+    "title": "Something's Gotta Give",
+    "year": 2003,
+    "genre": "Romance",
+    "box_office_usd": 265328837,
+    "characters": 20,
+    "scenes": 69,
+    "json_file": "all_movies/Something_s_Gotta_Give.json"
+  },
+  {
+    "title": "The Village",
+    "year": 2003,
+    "genre": "Thriller",
+    "box_office_usd": 256697520,
+    "characters": 52,
+    "scenes": 85,
+    "json_file": "all_movies/The_Village.json"
+  },
+  {
+    "title": "Love Actually",
+    "year": 2003,
+    "genre": "Romance",
+    "box_office_usd": 252591708,
+    "characters": 76,
+    "scenes": 64,
+    "json_file": "all_movies/Love_Actually.json"
+  },
+  {
+    "title": "2 Fast 2 Furious",
+    "year": 2003,
+    "genre": "Action",
+    "box_office_usd": 236353236,
+    "characters": 38,
+    "scenes": 126,
+    "json_file": "all_movies/2_Fast_2_Furious.json"
+  },
+  {
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "year": 2005,
+    "genre": "Sci-Fi",
+    "box_office_usd": 905595947,
+    "characters": 36,
+    "scenes": 102,
+    "json_file": "all_movies/Star_Wars_Episode_III_-_Revenge_of_the_Sith.json"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": 2005,
+    "genre": "Fantasy",
+    "box_office_usd": 900435886,
+    "characters": 71,
+    "scenes": 68,
+    "json_file": "all_movies/Harry_Potter_and_the_Goblet_of_Fire.json"
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": 2005,
+    "genre": "Fantasy",
+    "box_office_usd": 745013115,
+    "characters": 25,
+    "scenes": 4,
+    "json_file": "all_movies/The_Chronicles_of_Narnia_The_Lion_the_Witch_and_the_Wardrobe.json"
+  },
+  {
+    "title": "War of the Worlds",
+    "year": 2005,
+    "genre": "Sci-Fi",
+    "box_office_usd": 603874366,
+    "characters": 46,
+    "scenes": 19,
+    "json_file": "all_movies/War_of_the_Worlds.json"
+  },
+  {
+    "title": "King Kong",
+    "year": 2005,
+    "genre": "Adventure",
+    "box_office_usd": 556907510,
+    "characters": 45,
+    "scenes": 167,
+    "json_file": "all_movies/King_Kong.json"
+  },
+  {
+    "title": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "genre": "Adventure",
+    "box_office_usd": 961691209,
+    "characters": 34,
+    "scenes": 81,
+    "json_file": "all_movies/Pirates_of_the_Caribbean_At_World_s_End.json"
+  },
+  {
+    "title": "Shrek the Third",
+    "year": 2007,
+    "genre": "Animation",
+    "box_office_usd": 808310187,
+    "characters": 61,
+    "scenes": 60,
+    "json_file": "all_movies/Shrek_the_Third.json"
+  },
+  {
+    "title": "Transformers",
+    "year": 2007,
+    "genre": "Sci-Fi",
+    "box_office_usd": 709709780,
+    "characters": 50,
+    "scenes": 94,
+    "json_file": "all_movies/Transformers.json"
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "genre": "Sci-Fi",
+    "box_office_usd": 2923710708,
+    "characters": 21,
+    "scenes": 59,
+    "json_file": "all_movies/Avatar.json"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "year": 2009,
+    "genre": "Fantasy",
+    "box_office_usd": 941056063,
+    "characters": 35,
+    "scenes": 80,
+    "json_file": "all_movies/Harry_Potter_and_the_Half-Blood_Prince.json"
+  },
+  {
+    "title": "2012",
+    "year": 2009,
+    "genre": "Action",
+    "box_office_usd": 791217826,
+    "characters": 56,
+    "scenes": 132,
+    "json_file": "all_movies/2012.json"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": 2011,
+    "genre": "Fantasy",
+    "box_office_usd": 1342942050,
+    "characters": 42,
+    "scenes": 79,
+    "json_file": "all_movies/Harry_Potter_and_the_Deathly_Hallows_Part_2.json"
+  },
+  {
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "genre": "Adventure",
+    "box_office_usd": 1046721266,
+    "characters": 37,
+    "scenes": 64,
+    "json_file": "all_movies/Pirates_of_the_Caribbean_On_Stranger_Tides.json"
+  },
+  {
+    "title": "The Avengers",
+    "year": 2012,
+    "genre": "Action",
+    "box_office_usd": 1520538536,
+    "characters": 42,
+    "scenes": 142,
+    "json_file": "all_movies/The_Avengers.json"
+  },
+  {
+    "title": "Frozen",
+    "year": 2013,
+    "genre": "Animation",
+    "box_office_usd": 1284879663,
+    "characters": 75,
+    "scenes": 50,
+    "json_file": "all_movies/Frozen.json"
+  },
+  {
+    "title": "Despicable Me 2",
+    "year": 2013,
+    "genre": "Animation",
+    "box_office_usd": 970766005,
+    "characters": 32,
+    "scenes": 100,
+    "json_file": "all_movies/Despicable_Me_2.json"
+  },
+  {
+    "title": "The Hobbit: The Desolation of Smaug",
+    "year": 2013,
+    "genre": "Fantasy",
+    "box_office_usd": 959079095,
+    "characters": 48,
+    "scenes": 71,
+    "json_file": "all_movies/The_Hobbit_The_Desolation_of_Smaug.json"
+  },
+  {
+    "title": "The Hunger Games: Catching Fire",
+    "year": 2013,
+    "genre": "Sci-Fi",
+    "box_office_usd": 865216075,
+    "characters": 37,
+    "scenes": 111,
+    "json_file": "all_movies/The_Hunger_Games_Catching_Fire.json"
+  },
+  {
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "year": 2015,
+    "genre": "Sci-Fi",
+    "box_office_usd": 2071310218,
+    "characters": 26,
+    "scenes": 139,
+    "json_file": "all_movies/Star_Wars_Episode_VII_-_The_Force_Awakens.json"
+  },
+  {
+    "title": "Minions",
+    "year": 2015,
+    "genre": "Animation",
+    "box_office_usd": 1159457503,
+    "characters": 73,
+    "scenes": 88,
+    "json_file": "all_movies/Minions.json"
+  },
+  {
+    "title": "Beauty and the Beast",
+    "year": 2017,
+    "genre": "Fantasy",
+    "box_office_usd": 1266115964,
+    "characters": 32,
+    "scenes": 92,
+    "json_file": "all_movies/Beauty_and_the_Beast.json"
+  },
+  {
+    "title": "Black Panther",
+    "year": 2018,
+    "genre": "Action",
+    "box_office_usd": 1349926083,
+    "characters": 44,
+    "scenes": 149,
+    "json_file": "all_movies/Black_Panther.json"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": "Action",
+    "box_office_usd": 2799439100,
+    "characters": 40,
+    "scenes": 93,
+    "json_file": "all_movies/Avengers_Endgame.json"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "genre": "Action",
+    "box_office_usd": 1921426073,
+    "characters": 50,
+    "scenes": 68,
+    "json_file": "all_movies/Spider-Man_No_Way_Home.json"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "genre": "Action",
+    "box_office_usd": 1503260455,
+    "characters": 34,
+    "scenes": 132,
+    "json_file": "all_movies/Top_Gun_Maverick.json"
+  },
+  {
+    "title": "Barbie",
+    "year": 2023,
+    "genre": "Comedy",
+    "box_office_usd": 1447138421,
+    "characters": 69,
+    "scenes": 66,
+    "json_file": "all_movies/Barbie.json"
+  },
+  {
+    "title": "Inside Out 2",
+    "year": 2024,
+    "genre": "Animation",
+    "box_office_usd": 1698863816,
+    "characters": 68,
+    "scenes": 50,
+    "json_file": "all_movies/Inside_Out_2.json"
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "year": 2024,
+    "genre": "Action",
+    "box_office_usd": 1338073645,
+    "characters": 32,
+    "scenes": 42,
+    "json_file": "all_movies/Deadpool_Wolverine.json"
+  }
+]

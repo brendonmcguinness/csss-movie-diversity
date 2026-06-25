@@ -1,0 +1,995 @@
+{
+  "title": "2012",
+  "year": 2009,
+  "genre": "Action",
+  "box_office_usd": 791217826,
+  "box_office_display": "$791,217,826",
+  "character_count": 56,
+  "scene_count": 132,
+  "character_ids": [
+    {
+      "name": "PROF. WEST",
+      "id": 0
+    },
+    {
+      "name": "SATNAM",
+      "id": 1
+    },
+    {
+      "name": "ADRIAN",
+      "id": 2
+    },
+    {
+      "name": "ANHEUSER",
+      "id": 3
+    },
+    {
+      "name": "PRESIDENT WILSON",
+      "id": 4
+    },
+    {
+      "name": "RUSSIAN INTERPRETER",
+      "id": 5
+    },
+    {
+      "name": "LIN",
+      "id": 6
+    },
+    {
+      "name": "COLONEL",
+      "id": 7
+    },
+    {
+      "name": "SAUDI PRINCE",
+      "id": 8
+    },
+    {
+      "name": "MANFRED PICARD",
+      "id": 9
+    },
+    {
+      "name": "LAURA",
+      "id": 10
+    },
+    {
+      "name": "NEWSCASTER",
+      "id": 11
+    },
+    {
+      "name": "JACKSON",
+      "id": 12
+    },
+    {
+      "name": "NEIGHBOR",
+      "id": 13
+    },
+    {
+      "name": "RADIO HOST",
+      "id": 14
+    },
+    {
+      "name": "NOAH",
+      "id": 15
+    },
+    {
+      "name": "LILLY",
+      "id": 16
+    },
+    {
+      "name": "KATE",
+      "id": 17
+    },
+    {
+      "name": "GORDON",
+      "id": 18
+    },
+    {
+      "name": "HARRY",
+      "id": 19
+    },
+    {
+      "name": "TONY",
+      "id": 20
+    },
+    {
+      "name": "MANFRED",
+      "id": 21
+    },
+    {
+      "name": "CNN ANCHOR",
+      "id": 22
+    },
+    {
+      "name": "OFFICER",
+      "id": 23
+    },
+    {
+      "name": "CHARLIE FROST",
+      "id": 24
+    },
+    {
+      "name": "CHARLIE",
+      "id": 25
+    },
+    {
+      "name": "CASHIER",
+      "id": 26
+    },
+    {
+      "name": "GERMAN CHANCELLOR",
+      "id": 27
+    },
+    {
+      "name": "ITALIAN PRIME MINISTER",
+      "id": 28
+    },
+    {
+      "name": "BOXING ANNOUNCER",
+      "id": 29
+    },
+    {
+      "name": "YURI",
+      "id": 30
+    },
+    {
+      "name": "ZULTAN",
+      "id": 31
+    },
+    {
+      "name": "COACH",
+      "id": 32
+    },
+    {
+      "name": "TAMARA",
+      "id": 33
+    },
+    {
+      "name": "PUBLIC RADIO NEWS",
+      "id": 34
+    },
+    {
+      "name": "ALEC",
+      "id": 35
+    },
+    {
+      "name": "OLEG",
+      "id": 36
+    },
+    {
+      "name": "PREACHER",
+      "id": 37
+    },
+    {
+      "name": "SASHA",
+      "id": 38
+    },
+    {
+      "name": "GOVERNOR",
+      "id": 39
+    },
+    {
+      "name": "EVERYBODY",
+      "id": 40
+    },
+    {
+      "name": "WAITER",
+      "id": 41
+    },
+    {
+      "name": "NEWS ANCHOR",
+      "id": 42
+    },
+    {
+      "name": "SALLY",
+      "id": 43
+    },
+    {
+      "name": "FIRE MAN",
+      "id": 44
+    },
+    {
+      "name": "RESCUE WORKER",
+      "id": 45
+    },
+    {
+      "name": "LAMA YAK LA",
+      "id": 46
+    },
+    {
+      "name": "NENG",
+      "id": 47
+    },
+    {
+      "name": "MRS. PANG",
+      "id": 48
+    },
+    {
+      "name": "NENG'S MOTHER",
+      "id": 49
+    },
+    {
+      "name": "MR. PANG",
+      "id": 50
+    },
+    {
+      "name": "LADY",
+      "id": 51
+    },
+    {
+      "name": "PRESIDENT",
+      "id": 52
+    },
+    {
+      "name": "RED CROSS VOLUNTEER",
+      "id": 53
+    },
+    {
+      "name": "SCIENCE OFFICER",
+      "id": 54
+    },
+    {
+      "name": "COMMUNICATIONS OFFICER",
+      "id": 55
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        6,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        15,
+        12,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        16,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        4,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        12,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        23,
+        15,
+        12,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        12,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        24,
+        12,
+        25
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        26,
+        16,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        2,
+        27,
+        28,
+        3,
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "character_ids": [
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        34,
+        12,
+        17,
+        16,
+        30
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        30,
+        33
+      ]
+    },
+    {
+      "character_ids": [
+        30
+      ]
+    },
+    {
+      "character_ids": [
+        35,
+        36
+      ]
+    },
+    {
+      "character_ids": [
+        37,
+        35,
+        12,
+        36
+      ]
+    },
+    {
+      "character_ids": [
+        38,
+        35,
+        36,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        39
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        17,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        10,
+        39
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12,
+        17,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        17,
+        18,
+        15,
+        40
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        41,
+        19,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        20,
+        41
+      ]
+    },
+    {
+      "character_ids": [
+        42,
+        2,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        17,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        12,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        17,
+        25,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        12,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        12,
+        15,
+        18,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        43,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18,
+        17,
+        12,
+        15,
+        30,
+        44
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        45,
+        12,
+        18,
+        38,
+        30,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        30,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        38,
+        15,
+        30
+      ]
+    },
+    {
+      "character_ids": [
+        38,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        45
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18,
+        38
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18,
+        38
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        38
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        46,
+        47
+      ]
+    },
+    {
+      "character_ids": [
+        48,
+        47,
+        49,
+        50
+      ]
+    },
+    {
+      "character_ids": [
+        36
+      ]
+    },
+    {
+      "character_ids": [
+        35,
+        36,
+        15,
+        17,
+        33,
+        16,
+        30,
+        12,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        38
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        30,
+        38
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12,
+        38,
+        18,
+        30
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        51,
+        52,
+        4,
+        43
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        53
+      ]
+    },
+    {
+      "character_ids": [
+        54,
+        55,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        47
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        55,
+        0,
+        3,
+        2
+      ]
+    }
+  ]
+}

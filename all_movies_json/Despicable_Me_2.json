@@ -1,0 +1,679 @@
+{
+  "title": "Despicable Me 2",
+  "year": 2013,
+  "genre": "Animation",
+  "box_office_usd": 970766005,
+  "box_office_display": "$970,766,005",
+  "character_count": 32,
+  "scene_count": 100,
+  "character_ids": [
+    {
+      "name": "SILAS",
+      "id": 0
+    },
+    {
+      "name": "LUCY",
+      "id": 1
+    },
+    {
+      "name": "AGNES",
+      "id": 2
+    },
+    {
+      "name": "EDITH",
+      "id": 3
+    },
+    {
+      "name": "MARGO",
+      "id": 4
+    },
+    {
+      "name": "GRU",
+      "id": 5
+    },
+    {
+      "name": "MINIONS",
+      "id": 6
+    },
+    {
+      "name": "GIRL",
+      "id": 7
+    },
+    {
+      "name": "JILLIAN",
+      "id": 8
+    },
+    {
+      "name": "CAMERA POV",
+      "id": 9
+    },
+    {
+      "name": "TOM",
+      "id": 10
+    },
+    {
+      "name": "STUART",
+      "id": 11
+    },
+    {
+      "name": "CONFUSED FISHERMAN",
+      "id": 12
+    },
+    {
+      "name": "LISA",
+      "id": 13
+    },
+    {
+      "name": "GIRLS",
+      "id": 14
+    },
+    {
+      "name": "RED HAIRED GIRL",
+      "id": 15
+    },
+    {
+      "name": "DR. NEFARIO",
+      "id": 16
+    },
+    {
+      "name": "FRENCH MAID MINION",
+      "id": 17
+    },
+    {
+      "name": "DAVE",
+      "id": 18
+    },
+    {
+      "name": "KEVIN",
+      "id": 19
+    },
+    {
+      "name": "EDUARDO",
+      "id": 20
+    },
+    {
+      "name": "JERRY",
+      "id": 21
+    },
+    {
+      "name": "POLLITO",
+      "id": 22
+    },
+    {
+      "name": "BINOCULARS POV",
+      "id": 23
+    },
+    {
+      "name": "ANTONIO",
+      "id": 24
+    },
+    {
+      "name": "FLOYD",
+      "id": 25
+    },
+    {
+      "name": "POPSICLE MINION",
+      "id": 26
+    },
+    {
+      "name": "SHANNON",
+      "id": 27
+    },
+    {
+      "name": "HOSTESS",
+      "id": 28
+    },
+    {
+      "name": "ITALIAN WAITER",
+      "id": 29
+    },
+    {
+      "name": "SIREN MINION",
+      "id": 30
+    },
+    {
+      "name": "PURPLE FRENCH MAID MINION",
+      "id": 31
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        6,
+        2,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        5,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        6
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        0,
+        1,
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        4,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        14,
+        5,
+        7,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        16
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        4,
+        3,
+        14,
+        5,
+        18,
+        19,
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        1,
+        18
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        5,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        19,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        22
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        20
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        5,
+        20,
+        18
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11,
+        6
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        23,
+        5,
+        2,
+        4,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3,
+        4,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        25,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        3,
+        5,
+        24,
+        20,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        5,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        26
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        5,
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        27,
+        5,
+        1,
+        28,
+        29
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        0,
+        25,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        18,
+        30
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17,
+        19,
+        31
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        5,
+        24,
+        4,
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        20,
+        5
+      ]
+    }
+  ]
+}

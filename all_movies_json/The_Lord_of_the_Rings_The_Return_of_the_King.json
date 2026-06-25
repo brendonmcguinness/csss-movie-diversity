@@ -1,0 +1,665 @@
+{
+  "title": "The Lord of the Rings: The Return of the King",
+  "year": 2003,
+  "genre": "Fantasy",
+  "box_office_usd": 1149453674,
+  "box_office_display": "$1,149,453,674",
+  "character_count": 43,
+  "scene_count": 91,
+  "character_ids": [
+    {
+      "name": "DEAGOL",
+      "id": 0
+    },
+    {
+      "name": "SMEAGOL",
+      "id": 1
+    },
+    {
+      "name": "GOLLUM",
+      "id": 2
+    },
+    {
+      "name": "SAM",
+      "id": 3
+    },
+    {
+      "name": "FRODO",
+      "id": 4
+    },
+    {
+      "name": "PIPPIN",
+      "id": 5
+    },
+    {
+      "name": "MERRY",
+      "id": 6
+    },
+    {
+      "name": "GIMLI",
+      "id": 7
+    },
+    {
+      "name": "GANDALF",
+      "id": 8
+    },
+    {
+      "name": "TREEBEARD",
+      "id": 9
+    },
+    {
+      "name": "THEODEN",
+      "id": 10
+    },
+    {
+      "name": "EOWYN",
+      "id": 11
+    },
+    {
+      "name": "T HE ODE N",
+      "id": 12
+    },
+    {
+      "name": "ARAGORN",
+      "id": 13
+    },
+    {
+      "name": "SME AGO L",
+      "id": 14
+    },
+    {
+      "name": "LEGOLAS",
+      "id": 15
+    },
+    {
+      "name": "ELF ESCORT O.S",
+      "id": 16
+    },
+    {
+      "name": "ELF ESCORT",
+      "id": 17
+    },
+    {
+      "name": "ARWEN",
+      "id": 18
+    },
+    {
+      "name": "ELROND",
+      "id": 19
+    },
+    {
+      "name": "PIPPIN ;",
+      "id": 20
+    },
+    {
+      "name": "GA ND ALF",
+      "id": 21
+    },
+    {
+      "name": "DENETHOR",
+      "id": 22
+    },
+    {
+      "name": "G AN DA LF",
+      "id": 23
+    },
+    {
+      "name": "GOTHMOG",
+      "id": 24
+    },
+    {
+      "name": "FARAMIR",
+      "id": 25
+    },
+    {
+      "name": "ORC COMMANDER",
+      "id": 26
+    },
+    {
+      "name": "SOLDIER",
+      "id": 27
+    },
+    {
+      "name": "EOMER",
+      "id": 28
+    },
+    {
+      "name": "MADRIL",
+      "id": 29
+    },
+    {
+      "name": "RANGER",
+      "id": 30
+    },
+    {
+      "name": "IORLAS",
+      "id": 31
+    },
+    {
+      "name": "WITCH KING",
+      "id": 32
+    },
+    {
+      "name": "SOLDIER 1",
+      "id": 33
+    },
+    {
+      "name": "SOLDIER 2",
+      "id": 34
+    },
+    {
+      "name": "GRIMBOLD",
+      "id": 35
+    },
+    {
+      "name": "ROHAN MARSHALL",
+      "id": 36
+    },
+    {
+      "name": "GAMLING",
+      "id": 37
+    },
+    {
+      "name": "ARAGORN ;",
+      "id": 38
+    },
+    {
+      "name": "GIMLI O.S",
+      "id": 39
+    },
+    {
+      "name": "GUARD",
+      "id": 40
+    },
+    {
+      "name": "LEGOLAS O.S",
+      "id": 41
+    },
+    {
+      "name": "ROHAN SOLDIER O.S",
+      "id": 42
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10,
+        11,
+        12,
+        6,
+        5,
+        13,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        14,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        8,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        10,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        5,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        16,
+        17
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        19
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        20,
+        8,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        22,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        8,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        24,
+        26
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8,
+        27
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        13,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        13,
+        11,
+        28
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        29,
+        25,
+        30,
+        24
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        31,
+        25,
+        8,
+        21,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        32,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        33,
+        34,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        22,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        25
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        22,
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10,
+        35,
+        36,
+        22,
+        37
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        13,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        28,
+        7,
+        39
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        28
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        40
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10,
+        13,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        13,
+        41
+      ]
+    },
+    {
+      "character_ids": [
+        37,
+        42,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        15,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "title": "Harry Potter and the Goblet of Fire",
+  "year": 2005,
+  "genre": "Fantasy",
+  "box_office_usd": 900435886,
+  "box_office_display": "$900,435,886",
+  "character_count": 71,
+  "scene_count": 68,
+  "character_ids": [
+    {
+      "name": "WORMT.AIL",
+      "id": 0
+    },
+    {
+      "name": "WORMTAIL",
+      "id": 1
+    },
+    {
+      "name": "VOLDEMORT",
+      "id": 2
+    },
+    {
+      "name": "HERMIONE",
+      "id": 3
+    },
+    {
+      "name": "GRANGER",
+      "id": 4
+    },
+    {
+      "name": "HARRY",
+      "id": 5
+    },
+    {
+      "name": "RON",
+      "id": 6
+    },
+    {
+      "name": "ARTHUR WEASLEY",
+      "id": 7
+    },
+    {
+      "name": "ARTHUR",
+      "id": 8
+    },
+    {
+      "name": "WEASLEY",
+      "id": 9
+    },
+    {
+      "name": "CEDRIC DIGGORY",
+      "id": 10
+    },
+    {
+      "name": "AMOS DIGGORY",
+      "id": 11
+    },
+    {
+      "name": "FRED",
+      "id": 12
+    },
+    {
+      "name": "GEORGE",
+      "id": 13
+    },
+    {
+      "name": "HAR.RY",
+      "id": 14
+    },
+    {
+      "name": "ARTHUR WKASLEY",
+      "id": 15
+    },
+    {
+      "name": "VENDOR",
+      "id": 16
+    },
+    {
+      "name": "LUCIUS MALFOY",
+      "id": 17
+    },
+    {
+      "name": "HTS POV",
+      "id": 18
+    },
+    {
+      "name": "GINNY",
+      "id": 19
+    },
+    {
+      "name": "FUDGE",
+      "id": 20
+    },
+    {
+      "name": "BARTY CROUCH",
+      "id": 21
+    },
+    {
+      "name": "AMOS",
+      "id": 22
+    },
+    {
+      "name": "DIGGORY",
+      "id": 23
+    },
+    {
+      "name": "ARTHUR WE.ASLEY",
+      "id": 24
+    },
+    {
+      "name": "OLD",
+      "id": 25
+    },
+    {
+      "name": "ROH",
+      "id": 26
+    },
+    {
+      "name": "HARR.Y",
+      "id": 27
+    },
+    {
+      "name": "DUMBLEDORE",
+      "id": 28
+    },
+    {
+      "name": "SEAMUS",
+      "id": 29
+    },
+    {
+      "name": "BEAUXBATONS",
+      "id": 30
+    },
+    {
+      "name": "GIRLS",
+      "id": 31
+    },
+    {
+      "name": "MADAME MAXIME",
+      "id": 32
+    },
+    {
+      "name": "KARKAR.OFF",
+      "id": 33
+    },
+    {
+      "name": "SNAPE",
+      "id": 34
+    },
+    {
+      "name": "JURKA.ROFF",
+      "id": 35
+    },
+    {
+      "name": "NEVILLE",
+      "id": 36
+    },
+    {
+      "name": "THOMAS",
+      "id": 37
+    },
+    {
+      "name": "MADEYE MOODY",
+      "id": 38
+    },
+    {
+      "name": "MADER MOODY",
+      "id": 39
+    },
+    {
+      "name": "CEDRIC",
+      "id": 40
+    },
+    {
+      "name": "DEAN",
+      "id": 41
+    },
+    {
+      "name": "KA.RKAROFF",
+      "id": 42
+    },
+    {
+      "name": "DUMBLEDORE'S",
+      "id": 43
+    },
+    {
+      "name": "OFFICE",
+      "id": 44
+    },
+    {
+      "name": "PROFESSOR MCGONAGALL",
+      "id": 45
+    },
+    {
+      "name": "PROFESSOR MCGOHAGALL",
+      "id": 46
+    },
+    {
+      "name": "R.ON'",
+      "id": 47
+    },
+    {
+      "name": "RITA",
+      "id": 48
+    },
+    {
+      "name": "RITA. SKEETER",
+      "id": 49
+    },
+    {
+      "name": "SKEETE'",
+      "id": 50
+    },
+    {
+      "name": "BARRY",
+      "id": 51
+    },
+    {
+      "name": "RITA SKEETER",
+      "id": 52
+    },
+    {
+      "name": "BAR.TY CROUCH",
+      "id": 53
+    },
+    {
+      "name": "SIRIUS",
+      "id": 54
+    },
+    {
+      "name": "HAR.R.Y",
+      "id": 55
+    },
+    {
+      "name": "TREES",
+      "id": 56
+    },
+    {
+      "name": "HAGR.ID",
+      "id": 57
+    },
+    {
+      "name": "HAGRID",
+      "id": 58
+    },
+    {
+      "name": "CEDRIC D.IGGORY",
+      "id": 59
+    },
+    {
+      "name": "DRACO",
+      "id": 60
+    },
+    {
+      "name": "PROFESSOR",
+      "id": 61
+    },
+    {
+      "name": "MADEYB MOODY",
+      "id": 62
+    },
+    {
+      "name": "HALFOY",
+      "id": 63
+    },
+    {
+      "name": "HADEYE MOODY",
+      "id": 64
+    },
+    {
+      "name": "HERHIONE",
+      "id": 65
+    },
+    {
+      "name": "PR.ED",
+      "id": 66
+    },
+    {
+      "name": "FR.ED",
+      "id": 67
+    },
+    {
+      "name": "KRUM",
+      "id": 68
+    },
+    {
+      "name": "DUMBLEDORE C",
+      "id": 69
+    },
+    {
+      "name": "CAMERA",
+      "id": 70
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        6,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        13,
+        3,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        3,
+        12,
+        7,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        6,
+        5,
+        7,
+        21,
+        22,
+        23,
+        14,
+        24
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        26,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        27
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        28,
+        6,
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        6,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        3,
+        5,
+        36,
+        28,
+        37
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        38,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        38,
+        3,
+        29,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        38,
+        36,
+        39
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        3,
+        38
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        29,
+        40,
+        23,
+        12,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        41,
+        37,
+        6,
+        3,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        32,
+        28,
+        38,
+        42
+      ]
+    },
+    {
+      "character_ids": [
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        43,
+        44
+      ]
+    },
+    {
+      "character_ids": [
+        45,
+        28,
+        34,
+        46,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        47,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        48
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        49,
+        48,
+        50,
+        51,
+        52,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        53
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        54,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        54,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        54,
+        6,
+        36,
+        14,
+        3,
+        55
+      ]
+    },
+    {
+      "character_ids": [
+        56,
+        57,
+        5,
+        58,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        59,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        29,
+        6,
+        5,
+        14,
+        60,
+        38,
+        61,
+        62,
+        63,
+        64
+      ]
+    },
+    {
+      "character_ids": [
+        64,
+        38,
+        5,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        3,
+        60,
+        65
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        66,
+        13,
+        67
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        5,
+        52,
+        68,
+        28,
+        21,
+        69
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        70
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        13,
+        29,
+        3,
+        5
+      ]
+    }
+  ]
+}

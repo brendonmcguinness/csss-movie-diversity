@@ -1,0 +1,164 @@
+{
+  "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+  "year": 2005,
+  "genre": "Fantasy",
+  "box_office_usd": 745013115,
+  "box_office_display": "$745,013,115",
+  "character_count": 25,
+  "scene_count": 4,
+  "character_ids": [
+    {
+      "name": "LUCY",
+      "id": 0
+    },
+    {
+      "name": "MR. BEAVER",
+      "id": 1
+    },
+    {
+      "name": "SUSAN",
+      "id": 2
+    },
+    {
+      "name": "EDMUND",
+      "id": 3
+    },
+    {
+      "name": "MRS. BEAVER",
+      "id": 4
+    },
+    {
+      "name": "PETER",
+      "id": 5
+    },
+    {
+      "name": "MAUGRIM",
+      "id": 6
+    },
+    {
+      "name": "WHITE WITCH",
+      "id": 7
+    },
+    {
+      "name": "FOX",
+      "id": 8
+    },
+    {
+      "name": "WOLF",
+      "id": 9
+    },
+    {
+      "name": "FATHER CHRISTMAS",
+      "id": 10
+    },
+    {
+      "name": "ASLAN",
+      "id": 11
+    },
+    {
+      "name": "OREIUS",
+      "id": 12
+    },
+    {
+      "name": "GENERAL OTMIN",
+      "id": 13
+    },
+    {
+      "name": "HORSE",
+      "id": 14
+    },
+    {
+      "name": "DWARF",
+      "id": 15
+    },
+    {
+      "name": "JADIS",
+      "id": 16
+    },
+    {
+      "name": "DRYAD",
+      "id": 17
+    },
+    {
+      "name": "GRYPHON",
+      "id": 18
+    },
+    {
+      "name": "OTMAN",
+      "id": 19
+    },
+    {
+      "name": "BEAVER",
+      "id": 20
+    },
+    {
+      "name": "WITCH",
+      "id": 21
+    },
+    {
+      "name": "TUMNUS",
+      "id": 22
+    },
+    {
+      "name": "PHILIP",
+      "id": 23
+    },
+    {
+      "name": "PROFESSOR",
+      "id": 24
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        11,
+        2,
+        7,
+        17,
+        5,
+        3,
+        12,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        23,
+        2,
+        0,
+        5,
+        24
+      ]
+    }
+  ]
+}

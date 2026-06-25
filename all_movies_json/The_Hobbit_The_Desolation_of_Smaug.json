@@ -1,0 +1,636 @@
+{
+  "title": "The Hobbit: The Desolation of Smaug",
+  "year": 2013,
+  "genre": "Fantasy",
+  "box_office_usd": 959079095,
+  "box_office_display": "$959,079,095",
+  "character_count": 48,
+  "scene_count": 71,
+  "character_ids": [
+    {
+      "name": "GANDALF",
+      "id": 0
+    },
+    {
+      "name": "THORIN",
+      "id": 1
+    },
+    {
+      "name": "BILBO",
+      "id": 2
+    },
+    {
+      "name": "DWALIN",
+      "id": 3
+    },
+    {
+      "name": "BOFUR",
+      "id": 4
+    },
+    {
+      "name": "CLAWS",
+      "id": 5
+    },
+    {
+      "name": "ORI",
+      "id": 6
+    },
+    {
+      "name": "DORI",
+      "id": 7
+    },
+    {
+      "name": "NARZUG",
+      "id": 8
+    },
+    {
+      "name": "AZOG",
+      "id": 9
+    },
+    {
+      "name": "BOLG",
+      "id": 10
+    },
+    {
+      "name": "NECROMANCER",
+      "id": 11
+    },
+    {
+      "name": "CURIOSITY",
+      "id": 12
+    },
+    {
+      "name": "BEORN",
+      "id": 13
+    },
+    {
+      "name": "GALADRIEL",
+      "id": 14
+    },
+    {
+      "name": "OIN",
+      "id": 15
+    },
+    {
+      "name": "NORI",
+      "id": 16
+    },
+    {
+      "name": "BALIN",
+      "id": 17
+    },
+    {
+      "name": "GLOIN",
+      "id": 18
+    },
+    {
+      "name": "TREE",
+      "id": 19
+    },
+    {
+      "name": "SPIDER",
+      "id": 20
+    },
+    {
+      "name": "CONSCIOUSNESS",
+      "id": 21
+    },
+    {
+      "name": "RING",
+      "id": 22
+    },
+    {
+      "name": "GROUND",
+      "id": 23
+    },
+    {
+      "name": "LEGOLAS",
+      "id": 24
+    },
+    {
+      "name": "FILI",
+      "id": 25
+    },
+    {
+      "name": "KILI",
+      "id": 26
+    },
+    {
+      "name": "TAURIEL",
+      "id": 27
+    },
+    {
+      "name": "WOODLAND REALM",
+      "id": 28
+    },
+    {
+      "name": "THRANDUIL",
+      "id": 29
+    },
+    {
+      "name": "ELROS",
+      "id": 30
+    },
+    {
+      "name": "GALION",
+      "id": 31
+    },
+    {
+      "name": "VARIOUS DWARVES",
+      "id": 32
+    },
+    {
+      "name": "BELOW",
+      "id": 33
+    },
+    {
+      "name": "RADAGAST",
+      "id": 34
+    },
+    {
+      "name": "RADADAST",
+      "id": 35
+    },
+    {
+      "name": "BARD",
+      "id": 36
+    },
+    {
+      "name": "FIMBUL",
+      "id": 37
+    },
+    {
+      "name": "GAZE",
+      "id": 38
+    },
+    {
+      "name": "CUSTOMS BUILDINGS",
+      "id": 39
+    },
+    {
+      "name": "PERCY",
+      "id": 40
+    },
+    {
+      "name": "ALFRID",
+      "id": 41
+    },
+    {
+      "name": "BRAGA",
+      "id": 42
+    },
+    {
+      "name": "CANALS",
+      "id": 43
+    },
+    {
+      "name": "MASTER OF LAKE-TOWN",
+      "id": 44
+    },
+    {
+      "name": "BAIN",
+      "id": 45
+    },
+    {
+      "name": "TILDA",
+      "id": 46
+    },
+    {
+      "name": "SIGRID",
+      "id": 47
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        2,
+        3,
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        6,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        6,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11,
+        9,
+        8
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        3,
+        2,
+        14,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        15,
+        1,
+        16,
+        3,
+        17,
+        7,
+        18
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        6,
+        7,
+        4,
+        2,
+        1,
+        15,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        19,
+        2,
+        20,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        22,
+        23,
+        2,
+        24,
+        25,
+        26,
+        27,
+        18,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        26,
+        27,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        29,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        29,
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        27,
+        26
+      ]
+    },
+    {
+      "character_ids": [
+        30,
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        6,
+        2,
+        32,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        26,
+        4,
+        3,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        27
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        24,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        33,
+        24
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        34,
+        0,
+        35
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        17,
+        4,
+        3,
+        26,
+        25,
+        2,
+        36
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        29,
+        24,
+        8,
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        30
+      ]
+    },
+    {
+      "character_ids": [
+        37,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        1,
+        36,
+        3,
+        2,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        1,
+        18,
+        38,
+        36
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        36,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "character_ids": [
+        43
+      ]
+    },
+    {
+      "character_ids": [
+        41,
+        44
+      ]
+    },
+    {
+      "character_ids": [
+        44,
+        41
+      ]
+    },
+    {
+      "character_ids": [
+        44
+      ]
+    },
+    {
+      "character_ids": [
+        36,
+        45
+      ]
+    },
+    {
+      "character_ids": [
+        36
+      ]
+    },
+    {
+      "character_ids": [
+        46,
+        47,
+        36
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        45
+      ]
+    },
+    {
+      "character_ids": [
+        47,
+        46
+      ]
+    },
+    {
+      "character_ids": [
+        36,
+        1,
+        2,
+        17,
+        45,
+        3,
+        26,
+        25
+      ]
+    }
+  ]
+}

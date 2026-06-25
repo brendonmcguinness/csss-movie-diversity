@@ -1,0 +1,653 @@
+{
+  "title": "Spider-Man: No Way Home",
+  "year": 2021,
+  "genre": "Action",
+  "box_office_usd": 1921426073,
+  "box_office_display": "$1,921,426,073",
+  "character_count": 50,
+  "scene_count": 68,
+  "character_ids": [
+    {
+      "name": "QUENTIN BECK",
+      "id": 0
+    },
+    {
+      "name": "SPIDER-MAN",
+      "id": 1
+    },
+    {
+      "name": "J. JONAH JAMESON",
+      "id": 2
+    },
+    {
+      "name": "MJ",
+      "id": 3
+    },
+    {
+      "name": "GONDOLA PASSENGER",
+      "id": 4
+    },
+    {
+      "name": "FLASH",
+      "id": 5
+    },
+    {
+      "name": "HAPPY",
+      "id": 6
+    },
+    {
+      "name": "MAY",
+      "id": 7
+    },
+    {
+      "name": "PETER",
+      "id": 8
+    },
+    {
+      "name": "NOSEY NEIGHBOR",
+      "id": 9
+    },
+    {
+      "name": "MYSTERIO FANATIC",
+      "id": 10
+    },
+    {
+      "name": "BRITISH ANCHOR",
+      "id": 11
+    },
+    {
+      "name": "IRISH REPORTER",
+      "id": 12
+    },
+    {
+      "name": "STERN",
+      "id": 13
+    },
+    {
+      "name": "AGENT CLEARY",
+      "id": 14
+    },
+    {
+      "name": "HOMECOMING",
+      "id": 15
+    },
+    {
+      "name": "DODC AGENT",
+      "id": 16
+    },
+    {
+      "name": "NED",
+      "id": 17
+    },
+    {
+      "name": "MATT MURDOCK",
+      "id": 18
+    },
+    {
+      "name": "MYSTERIO FAN",
+      "id": 19
+    },
+    {
+      "name": "ALARM SYSTEM",
+      "id": 20
+    },
+    {
+      "name": "RADIO BROADCASTER",
+      "id": 21
+    },
+    {
+      "name": "NICKY",
+      "id": 22
+    },
+    {
+      "name": "NIGHT",
+      "id": 23
+    },
+    {
+      "name": "BETTY",
+      "id": 24
+    },
+    {
+      "name": "NEWS REPORTER",
+      "id": 25
+    },
+    {
+      "name": "ANOTHER NEWS REPORTER",
+      "id": 26
+    },
+    {
+      "name": "SECURITY GUARD",
+      "id": 27
+    },
+    {
+      "name": "FRONT DOOR GUARD",
+      "id": 28
+    },
+    {
+      "name": "MR. DELL",
+      "id": 29
+    },
+    {
+      "name": "COACH WILSON",
+      "id": 30
+    },
+    {
+      "name": "MR. HARRINGTON",
+      "id": 31
+    },
+    {
+      "name": "DONUT SHOP BOSS",
+      "id": 32
+    },
+    {
+      "name": "WONG",
+      "id": 33
+    },
+    {
+      "name": "DR. STRANGE",
+      "id": 34
+    },
+    {
+      "name": "MALE IRON SPIDER",
+      "id": 35
+    },
+    {
+      "name": "TODDLER BOY",
+      "id": 36
+    },
+    {
+      "name": "GIRL",
+      "id": 37
+    },
+    {
+      "name": "TAXI DRIVER",
+      "id": 38
+    },
+    {
+      "name": "ASSISTANT VICE CHANCELLOR",
+      "id": 39
+    },
+    {
+      "name": "DOC OCK",
+      "id": 40
+    },
+    {
+      "name": "HELICOPTER",
+      "id": 41
+    },
+    {
+      "name": "QUICK POPS:",
+      "id": 42
+    },
+    {
+      "name": "SANDMAN",
+      "id": 43
+    },
+    {
+      "name": "ELECTRO",
+      "id": 44
+    },
+    {
+      "name": "LIZARD",
+      "id": 45
+    },
+    {
+      "name": "GREEN GOBLIN",
+      "id": 46
+    },
+    {
+      "name": "NORMAN",
+      "id": 47
+    },
+    {
+      "name": "PRODUCER",
+      "id": 48
+    },
+    {
+      "name": "DAILY BUGLE LACKEY",
+      "id": 49
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3,
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        7,
+        3,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        8,
+        6,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        7,
+        6,
+        9,
+        3,
+        2,
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        7,
+        14,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        14,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        14
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        6,
+        8,
+        18,
+        7,
+        19
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7,
+        20,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        21,
+        22,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        3,
+        8,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        25,
+        26,
+        27,
+        17,
+        5,
+        8,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        29,
+        30,
+        31,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        3,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        3,
+        32,
+        17,
+        8,
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8,
+        33,
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        34
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8,
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        35,
+        1,
+        36,
+        37
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        38,
+        8,
+        39,
+        1,
+        40,
+        41,
+        35
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        34,
+        40
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        34,
+        3,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        8,
+        3,
+        40
+      ]
+    },
+    {
+      "character_ids": [
+        42,
+        7,
+        8,
+        17,
+        40,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        1,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17,
+        3,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        43,
+        8,
+        44
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        43,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        43,
+        44,
+        40,
+        17,
+        45,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        3,
+        17,
+        44
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        46,
+        47
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8,
+        7,
+        47
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        48
+      ]
+    },
+    {
+      "character_ids": [
+        49,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        47,
+        7,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        47,
+        3,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        47,
+        40,
+        44,
+        8,
+        43,
+        45,
+        34,
+        17,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        34,
+        1,
+        8
+      ]
+    },
+    {
+      "character_ids": []
+    }
+  ]
+}

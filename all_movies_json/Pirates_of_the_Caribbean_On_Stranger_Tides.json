@@ -1,0 +1,538 @@
+{
+  "title": "Pirates of the Caribbean: On Stranger Tides",
+  "year": 2011,
+  "genre": "Adventure",
+  "box_office_usd": 1046721266,
+  "box_office_display": "$1,046,721,266",
+  "character_count": 37,
+  "scene_count": 64,
+  "character_ids": [
+    {
+      "name": "FISHERMAN",
+      "id": 0
+    },
+    {
+      "name": "CAPTAIN",
+      "id": 1
+    },
+    {
+      "name": "SAILOR",
+      "id": 2
+    },
+    {
+      "name": "KING FERDINAND",
+      "id": 3
+    },
+    {
+      "name": "SPANIARD",
+      "id": 4
+    },
+    {
+      "name": "GIRL",
+      "id": 5
+    },
+    {
+      "name": "FATHER",
+      "id": 6
+    },
+    {
+      "name": "JAILOR",
+      "id": 7
+    },
+    {
+      "name": "BAILIFF",
+      "id": 8
+    },
+    {
+      "name": "GIBBS",
+      "id": 9
+    },
+    {
+      "name": "JACK",
+      "id": 10
+    },
+    {
+      "name": "FOREMAN",
+      "id": 11
+    },
+    {
+      "name": "PADDY WAGON",
+      "id": 12
+    },
+    {
+      "name": "CARTERET",
+      "id": 13
+    },
+    {
+      "name": "GEORGE",
+      "id": 14
+    },
+    {
+      "name": "PELHAM",
+      "id": 15
+    },
+    {
+      "name": "HECTOR BARBOSSA",
+      "id": 16
+    },
+    {
+      "name": "BARBOSSA",
+      "id": 17
+    },
+    {
+      "name": "GUARD",
+      "id": 18
+    },
+    {
+      "name": "TEAGUE",
+      "id": 19
+    },
+    {
+      "name": "SCRUM",
+      "id": 20
+    },
+    {
+      "name": "DERRICK",
+      "id": 21
+    },
+    {
+      "name": "ANGELICA",
+      "id": 22
+    },
+    {
+      "name": "GROVES",
+      "id": 23
+    },
+    {
+      "name": "SALAMAN",
+      "id": 24
+    },
+    {
+      "name": "GARHENG",
+      "id": 25
+    },
+    {
+      "name": "EZEKIEL",
+      "id": 26
+    },
+    {
+      "name": "COOK",
+      "id": 27
+    },
+    {
+      "name": "PURSER",
+      "id": 28
+    },
+    {
+      "name": "CABIN BOY",
+      "id": 29
+    },
+    {
+      "name": "PHILIP",
+      "id": 30
+    },
+    {
+      "name": "BLACKBEARD",
+      "id": 31
+    },
+    {
+      "name": "QUARTERMASTER",
+      "id": 32
+    },
+    {
+      "name": "GUNNER",
+      "id": 33
+    },
+    {
+      "name": "PIRATES",
+      "id": 34
+    },
+    {
+      "name": "MERMAID",
+      "id": 35
+    },
+    {
+      "name": "GILLETTE",
+      "id": 36
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        9,
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        10,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        10,
+        20,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        22,
+        20
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        20
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        17
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17,
+        9,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        24,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        24,
+        26,
+        27,
+        28,
+        29,
+        20,
+        21,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        24,
+        30,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        31,
+        22,
+        30,
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        31,
+        22,
+        30
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        31,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        23,
+        9
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        10,
+        32
+      ]
+    },
+    {
+      "character_ids": [
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        25,
+        24,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        31,
+        22,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        26,
+        21,
+        20,
+        29,
+        33,
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        30,
+        26,
+        35,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        31,
+        22,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10,
+        24,
+        20,
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        9,
+        17,
+        36
+      ]
+    },
+    {
+      "character_ids": [
+        31,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        20,
+        22,
+        10
+      ]
+    }
+  ]
+}

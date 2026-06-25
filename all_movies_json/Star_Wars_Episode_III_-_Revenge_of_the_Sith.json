@@ -1,0 +1,670 @@
+{
+  "title": "Star Wars: Episode III - Revenge of the Sith",
+  "year": 2005,
+  "genre": "Sci-Fi",
+  "box_office_usd": 905595947,
+  "box_office_display": "$905,595,947",
+  "character_count": 36,
+  "scene_count": 102,
+  "character_ids": [
+    {
+      "name": "ANAKIN",
+      "id": 0
+    },
+    {
+      "name": "OBI-WAN",
+      "id": 1
+    },
+    {
+      "name": "ODD BALL",
+      "id": 2
+    },
+    {
+      "name": "CLONE PILOT 2",
+      "id": 3
+    },
+    {
+      "name": "C'",
+      "id": 4
+    },
+    {
+      "name": "GENERAL GRIEVOUS",
+      "id": 5
+    },
+    {
+      "name": "CAPTAIN",
+      "id": 6
+    },
+    {
+      "name": "C BODYGUARD I",
+      "id": 7
+    },
+    {
+      "name": "BATTLE DROID",
+      "id": 8
+    },
+    {
+      "name": "DROID 1",
+      "id": 9
+    },
+    {
+      "name": "DROID 2",
+      "id": 10
+    },
+    {
+      "name": "PAL PATINE",
+      "id": 11
+    },
+    {
+      "name": "COUNT DOOKU",
+      "id": 12
+    },
+    {
+      "name": "PALPATINE",
+      "id": 13
+    },
+    {
+      "name": "PILOT",
+      "id": 14
+    },
+    {
+      "name": "CRUISER",
+      "id": 15
+    },
+    {
+      "name": "BODYGUARD",
+      "id": 16
+    },
+    {
+      "name": "DROIDS",
+      "id": 17
+    },
+    {
+      "name": "BODYGUARDS",
+      "id": 18
+    },
+    {
+      "name": "FIRESHIP PILOT",
+      "id": 19
+    },
+    {
+      "name": "MACE WINDU",
+      "id": 20
+    },
+    {
+      "name": "BAIL ORGANA",
+      "id": 21
+    },
+    {
+      "name": "PADME",
+      "id": 22
+    },
+    {
+      "name": "DARTH SIDIOUS",
+      "id": 23
+    },
+    {
+      "name": "YODA",
+      "id": 24
+    },
+    {
+      "name": "FANG ZAR",
+      "id": 25
+    },
+    {
+      "name": "MON MOTHMA",
+      "id": 26
+    },
+    {
+      "name": "GIDDEAN DANU",
+      "id": 27
+    },
+    {
+      "name": "TERR TANEEL",
+      "id": 28
+    },
+    {
+      "name": "MACE",
+      "id": 29
+    },
+    {
+      "name": "KI-ADI-MUNDI",
+      "id": 30
+    },
+    {
+      "name": "CAPTAIN TYPHO",
+      "id": 31
+    },
+    {
+      "name": "MOTEE",
+      "id": 32
+    },
+    {
+      "name": "C ANAKIN",
+      "id": 33
+    },
+    {
+      "name": "CLONE COMMANDER GREE",
+      "id": 34
+    },
+    {
+      "name": "BANA BREEMU",
+      "id": 35
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        8
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        0,
+        11,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        0,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        14
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        14
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        14
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        14
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        0,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        16,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        13,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        1,
+        0,
+        18,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        20,
+        13,
+        11,
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        21,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        21,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        0,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        21,
+        25,
+        22,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        29,
+        0,
+        24,
+        30,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        24,
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        31,
+        32,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        11,
+        13,
+        33
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        30,
+        29,
+        0,
+        24,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        34,
+        24
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        21,
+        26,
+        35
+      ]
+    }
+  ]
+}

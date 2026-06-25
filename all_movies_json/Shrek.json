@@ -1,0 +1,261 @@
+{
+  "title": "Shrek",
+  "year": 2001,
+  "genre": "Animation",
+  "box_office_usd": 489652025,
+  "box_office_display": "$489,652,025",
+  "character_count": 27,
+  "scene_count": 17,
+  "character_ids": [
+    {
+      "name": "SHREK",
+      "id": 0
+    },
+    {
+      "name": "MEN",
+      "id": 1
+    },
+    {
+      "name": "GUARD",
+      "id": 2
+    },
+    {
+      "name": "HEAD GUARD",
+      "id": 3
+    },
+    {
+      "name": "BEAR",
+      "id": 4
+    },
+    {
+      "name": "DONKEY",
+      "id": 5
+    },
+    {
+      "name": "WOMAN",
+      "id": 6
+    },
+    {
+      "name": "GIPETTO",
+      "id": 7
+    },
+    {
+      "name": "PINOCCHIO",
+      "id": 8
+    },
+    {
+      "name": "PETER PAN",
+      "id": 9
+    },
+    {
+      "name": "GUARDS",
+      "id": 10
+    },
+    {
+      "name": "GORDO",
+      "id": 11
+    },
+    {
+      "name": "DWARF",
+      "id": 12
+    },
+    {
+      "name": "BIG BAD WOLF",
+      "id": 13
+    },
+    {
+      "name": "PIG",
+      "id": 14
+    },
+    {
+      "name": "FARQUAAD",
+      "id": 15
+    },
+    {
+      "name": "GINGERBREAD MAN",
+      "id": 16
+    },
+    {
+      "name": "MIRROR",
+      "id": 17
+    },
+    {
+      "name": "THELONIUS",
+      "id": 18
+    },
+    {
+      "name": "WOODEN PEOPLE",
+      "id": 19
+    },
+    {
+      "name": "FIONA",
+      "id": 20
+    },
+    {
+      "name": "ROBIN HOOD",
+      "id": 21
+    },
+    {
+      "name": "MERRY MEN",
+      "id": 22
+    },
+    {
+      "name": "MERRY MAN",
+      "id": 23
+    },
+    {
+      "name": "PRIEST",
+      "id": 24
+    },
+    {
+      "name": "CONGREGATION",
+      "id": 25
+    },
+    {
+      "name": "WHISPERS",
+      "id": 26
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        5,
+        11,
+        12,
+        13,
+        8,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        16,
+        3,
+        17,
+        10,
+        18,
+        5,
+        0,
+        19,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        5,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        5,
+        15,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        0,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        0,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        0,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        0,
+        5,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        20,
+        15,
+        5,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        0,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        20,
+        15,
+        5,
+        25,
+        26,
+        16
+      ]
+    }
+  ]
+}

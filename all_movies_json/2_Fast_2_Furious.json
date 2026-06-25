@@ -1,0 +1,746 @@
+{
+  "title": "2 Fast 2 Furious",
+  "year": 2003,
+  "genre": "Action",
+  "box_office_usd": 236353236,
+  "box_office_display": "$236,353,236",
+  "character_count": 38,
+  "scene_count": 126,
+  "character_ids": [
+    {
+      "name": "OFFICER ONE",
+      "id": 0
+    },
+    {
+      "name": "OFFICER TWO",
+      "id": 1
+    },
+    {
+      "name": "EDWIN",
+      "id": 2
+    },
+    {
+      "name": "ORANGE JULIUS",
+      "id": 3
+    },
+    {
+      "name": "SUKI",
+      "id": 4
+    },
+    {
+      "name": "BRIAN",
+      "id": 5
+    },
+    {
+      "name": "SLAP-JACK",
+      "id": 6
+    },
+    {
+      "name": "SLAP-JACK'S BROTHERS",
+      "id": 7
+    },
+    {
+      "name": "AGENT DUNN",
+      "id": 8
+    },
+    {
+      "name": "IN BRIAN'S CAR",
+      "id": 9
+    },
+    {
+      "name": "AGENT MARKHAM",
+      "id": 10
+    },
+    {
+      "name": "BILKINS",
+      "id": 11
+    },
+    {
+      "name": "MARKHAM",
+      "id": 12
+    },
+    {
+      "name": "AGENT DONN",
+      "id": 13
+    },
+    {
+      "name": "PEARCE",
+      "id": 14
+    },
+    {
+      "name": "CLEMENTE",
+      "id": 15
+    },
+    {
+      "name": "TECH",
+      "id": 16
+    },
+    {
+      "name": "VERONE",
+      "id": 17
+    },
+    {
+      "name": "ROBERTO",
+      "id": 18
+    },
+    {
+      "name": "OLAN",
+      "id": 19
+    },
+    {
+      "name": "IN THE DRIVE",
+      "id": 20
+    },
+    {
+      "name": "WHITWORTH",
+      "id": 21
+    },
+    {
+      "name": "WHIZ-KID",
+      "id": 22
+    },
+    {
+      "name": "IN PEARCE'S SPYDER",
+      "id": 23
+    },
+    {
+      "name": "IN THE LOT",
+      "id": 24
+    },
+    {
+      "name": "AT THE END OF THE LOT",
+      "id": 25
+    },
+    {
+      "name": "AUSTIN",
+      "id": 26
+    },
+    {
+      "name": "EDWIN'S GARAGE",
+      "id": 27
+    },
+    {
+      "name": "JIMMY",
+      "id": 28
+    },
+    {
+      "name": "KOTO",
+      "id": 29
+    },
+    {
+      "name": "LIVAN",
+      "id": 30
+    },
+    {
+      "name": "IN THE TUNNEL",
+      "id": 31
+    },
+    {
+      "name": "SUV DRIVER",
+      "id": 32
+    },
+    {
+      "name": "SUV DRIVER POV",
+      "id": 33
+    },
+    {
+      "name": "WAITER",
+      "id": 34
+    },
+    {
+      "name": "P.D",
+      "id": 35
+    },
+    {
+      "name": "BATHROOM",
+      "id": 36
+    },
+    {
+      "name": "BRIAN ENZO",
+      "id": 37
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        5,
+        3,
+        6,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        5,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        5,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11,
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11,
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        14,
+        11,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        14,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        5,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        11,
+        8,
+        5,
+        10,
+        15,
+        14
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        16
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        14,
+        15,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        21,
+        17,
+        15
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15,
+        17,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        24,
+        5,
+        19
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        19,
+        25,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        26,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        5,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        5,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        14,
+        28,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        14,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        9,
+        5,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        5,
+        14,
+        29,
+        30
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        31
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        32,
+        33
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        14,
+        5,
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15,
+        5,
+        14,
+        34,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        35,
+        21,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        14,
+        15
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18,
+        5,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        36
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        37,
+        17
+      ]
+    }
+  ]
+}

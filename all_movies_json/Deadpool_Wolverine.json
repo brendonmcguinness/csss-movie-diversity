@@ -1,0 +1,398 @@
+{
+  "title": "Deadpool & Wolverine",
+  "year": 2024,
+  "genre": "Action",
+  "box_office_usd": 1338073645,
+  "box_office_display": "$1,338,073,645",
+  "character_count": 32,
+  "scene_count": 42,
+  "character_ids": [
+    {
+      "name": "DEADPOOL",
+      "id": 0
+    },
+    {
+      "name": "UNMASKED MINUTEMAN",
+      "id": 1
+    },
+    {
+      "name": "COMPOUND FRACTURES",
+      "id": 2
+    },
+    {
+      "name": "WADE",
+      "id": 3
+    },
+    {
+      "name": "HAROLD LLOYD",
+      "id": 4
+    },
+    {
+      "name": "MRS. CHIPMAN",
+      "id": 5
+    },
+    {
+      "name": "PETER",
+      "id": 6
+    },
+    {
+      "name": "DOPINDER",
+      "id": 7
+    },
+    {
+      "name": "SHATTERSTAR",
+      "id": 8
+    },
+    {
+      "name": "COLOSSUS",
+      "id": 9
+    },
+    {
+      "name": "YUKIO",
+      "id": 10
+    },
+    {
+      "name": "NTW",
+      "id": 11
+    },
+    {
+      "name": "BLIND AL",
+      "id": 12
+    },
+    {
+      "name": "VANESSA",
+      "id": 13
+    },
+    {
+      "name": "BUCK",
+      "id": 14
+    },
+    {
+      "name": "MR. PARADOX",
+      "id": 15
+    },
+    {
+      "name": "MINUTEMAN",
+      "id": 16
+    },
+    {
+      "name": "LOGAN",
+      "id": 17
+    },
+    {
+      "name": "HOPPER-RENE",
+      "id": 18
+    },
+    {
+      "name": "BARTENDER",
+      "id": 19
+    },
+    {
+      "name": "WOLVERINE",
+      "id": 20
+    },
+    {
+      "name": "ZOOP",
+      "id": 21
+    },
+    {
+      "name": "UNTIL:",
+      "id": 22
+    },
+    {
+      "name": "MR. CLARKE",
+      "id": 23
+    },
+    {
+      "name": "PYRO",
+      "id": 24
+    },
+    {
+      "name": "JONATHAN",
+      "id": 25
+    },
+    {
+      "name": "SABRETOOTH",
+      "id": 26
+    },
+    {
+      "name": "SKELETON",
+      "id": 27
+    },
+    {
+      "name": "JUGGERNAUT",
+      "id": 28
+    },
+    {
+      "name": "CASSANDRA NOVA",
+      "id": 29
+    },
+    {
+      "name": "WHOOSH",
+      "id": 30
+    },
+    {
+      "name": "CASSANDRA",
+      "id": 31
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        6,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        12,
+        14,
+        10,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        16,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        17,
+        19,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        15,
+        20,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        20,
+        22,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        20,
+        23,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        20,
+        0,
+        26
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        20,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        20,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        28,
+        20,
+        25,
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        30,
+        0,
+        20,
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        29,
+        0,
+        31,
+        16
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        20
+      ]
+    }
+  ]
+}

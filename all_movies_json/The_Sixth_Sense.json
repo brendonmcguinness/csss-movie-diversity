@@ -1,0 +1,418 @@
+{
+  "title": "The Sixth Sense",
+  "year": 1999,
+  "genre": "Thriller",
+  "box_office_usd": 672806731,
+  "box_office_display": "$672,806,731",
+  "character_count": 23,
+  "scene_count": 64,
+  "character_ids": [
+    {
+      "name": "ANNA",
+      "id": 0
+    },
+    {
+      "name": "MALCOLM",
+      "id": 1
+    },
+    {
+      "name": "STRANGER",
+      "id": 2
+    },
+    {
+      "name": "VINCENT",
+      "id": 3
+    },
+    {
+      "name": "COLE",
+      "id": 4
+    },
+    {
+      "name": "LYNN",
+      "id": 5
+    },
+    {
+      "name": "TOMMY",
+      "id": 6
+    },
+    {
+      "name": "MR. MARSCHAL",
+      "id": 7
+    },
+    {
+      "name": "MR. MASCHAL",
+      "id": 8
+    },
+    {
+      "name": "MAN",
+      "id": 9
+    },
+    {
+      "name": "MR. CUNNINGHAM",
+      "id": 10
+    },
+    {
+      "name": "CLASS",
+      "id": 11
+    },
+    {
+      "name": "BOBBY",
+      "id": 12
+    },
+    {
+      "name": "DARREN'S MOM",
+      "id": 13
+    },
+    {
+      "name": "MRS. WESTON",
+      "id": 14
+    },
+    {
+      "name": "MRS. SAUNDERS",
+      "id": 15
+    },
+    {
+      "name": "DARREN",
+      "id": 16
+    },
+    {
+      "name": "DARREN'S MOTHER",
+      "id": 17
+    },
+    {
+      "name": "DR. HILL",
+      "id": 18
+    },
+    {
+      "name": "NARRATOR",
+      "id": 19
+    },
+    {
+      "name": "BOY",
+      "id": 20
+    },
+    {
+      "name": "WOMAN",
+      "id": 21
+    },
+    {
+      "name": "SEAN",
+      "id": 22
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        6
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        1,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        4,
+        1,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        0,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        11,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        15,
+        6,
+        16,
+        4,
+        17,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        18,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        6,
+        19,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        9,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        1
+      ]
+    }
+  ]
+}

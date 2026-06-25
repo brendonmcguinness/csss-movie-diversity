@@ -1,0 +1,394 @@
+{
+  "title": "Star Wars: Episode I - The Phantom Menace",
+  "year": 1999,
+  "genre": "Sci-Fi",
+  "box_office_usd": 1046515409,
+  "box_office_display": "$1,046,515,409",
+  "character_count": 37,
+  "scene_count": 46,
+  "character_ids": [
+    {
+      "name": "TC-J",
+      "id": 0
+    },
+    {
+      "name": "QUI-GON",
+      "id": 1
+    },
+    {
+      "name": "OBI-WAN",
+      "id": 2
+    },
+    {
+      "name": "NUTE",
+      "id": 3
+    },
+    {
+      "name": "DOFI NF",
+      "id": 4
+    },
+    {
+      "name": "DOFINE",
+      "id": 5
+    },
+    {
+      "name": "PILOT",
+      "id": 6
+    },
+    {
+      "name": "CAPTAIN",
+      "id": 7
+    },
+    {
+      "name": "P.LINE",
+      "id": 8
+    },
+    {
+      "name": "RUNE",
+      "id": 9
+    },
+    {
+      "name": "RUNE I",
+      "id": 10
+    },
+    {
+      "name": "TEY HOW",
+      "id": 11
+    },
+    {
+      "name": "IJUTF",
+      "id": 12
+    },
+    {
+      "name": "AMIDALA",
+      "id": 13
+    },
+    {
+      "name": "BIBBLE",
+      "id": 14
+    },
+    {
+      "name": "OUI-GON",
+      "id": 15
+    },
+    {
+      "name": "JAR JAR",
+      "id": 16
+    },
+    {
+      "name": "QIJI-GON",
+      "id": 17
+    },
+    {
+      "name": "CAPT. TARPALS",
+      "id": 18
+    },
+    {
+      "name": "BOSS NASS",
+      "id": 19
+    },
+    {
+      "name": "QUJ-GON",
+      "id": 20
+    },
+    {
+      "name": "OBJ-WAN",
+      "id": 21
+    },
+    {
+      "name": "QUI-C-.ON",
+      "id": 22
+    },
+    {
+      "name": "BOSS NIISS",
+      "id": 23
+    },
+    {
+      "name": "NIJTF",
+      "id": 24
+    },
+    {
+      "name": "DARTH SIOIOUS",
+      "id": 25
+    },
+    {
+      "name": "DARTII SIDIOUS",
+      "id": 26
+    },
+    {
+      "name": "NIITF",
+      "id": 27
+    },
+    {
+      "name": "JAR JIIR",
+      "id": 28
+    },
+    {
+      "name": "QUEEN AMIDALA",
+      "id": 29
+    },
+    {
+      "name": "DROIOS",
+      "id": 30
+    },
+    {
+      "name": "SIBBLE",
+      "id": 31
+    },
+    {
+      "name": "OBI-WIIN",
+      "id": 32
+    },
+    {
+      "name": "OUI-GOM",
+      "id": 33
+    },
+    {
+      "name": "FADMF",
+      "id": 34
+    },
+    {
+      "name": "H",
+      "id": 35
+    },
+    {
+      "name": "WATTO",
+      "id": 36
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        3,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        11,
+        3,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15,
+        1,
+        16,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        3,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        18,
+        19,
+        20,
+        21,
+        1,
+        22,
+        23,
+        24,
+        25,
+        3,
+        26,
+        9,
+        27
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15,
+        16,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        2,
+        16,
+        28
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        16,
+        29,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        30,
+        1,
+        20,
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        32,
+        33
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15,
+        3,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        35
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        36
+      ]
+    }
+  ]
+}

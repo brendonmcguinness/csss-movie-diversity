@@ -1,0 +1,769 @@
+{
+  "title": "The Matrix Reloaded",
+  "year": 2003,
+  "genre": "Sci-Fi",
+  "box_office_usd": 741847937,
+  "box_office_display": "$741,847,937",
+  "character_count": 62,
+  "scene_count": 97,
+  "character_ids": [
+    {
+      "name": "GUMD",
+      "id": 0
+    },
+    {
+      "name": "GUARD",
+      "id": 1
+    },
+    {
+      "name": "LINK",
+      "id": 2
+    },
+    {
+      "name": "MORPHEUS",
+      "id": 3
+    },
+    {
+      "name": "TRINITY",
+      "id": 4
+    },
+    {
+      "name": "NEO",
+      "id": 5
+    },
+    {
+      "name": "NIOBE",
+      "id": 6
+    },
+    {
+      "name": "TIRANT",
+      "id": 7
+    },
+    {
+      "name": "SOREN",
+      "id": 8
+    },
+    {
+      "name": "ICE",
+      "id": 9
+    },
+    {
+      "name": "AJAX",
+      "id": 10
+    },
+    {
+      "name": "KALI",
+      "id": 11
+    },
+    {
+      "name": "VECTOR",
+      "id": 12
+    },
+    {
+      "name": "GHOST",
+      "id": 13
+    },
+    {
+      "name": "BALLARD",
+      "id": 14
+    },
+    {
+      "name": "ROLAND",
+      "id": 15
+    },
+    {
+      "name": "SUIT",
+      "id": 16
+    },
+    {
+      "name": "CORRUPT",
+      "id": 17
+    },
+    {
+      "name": "CORRUP'P",
+      "id": 18
+    },
+    {
+      "name": "WURM",
+      "id": 19
+    },
+    {
+      "name": "CORRDPT",
+      "id": 20
+    },
+    {
+      "name": "AGENT THOMPSON",
+      "id": 21
+    },
+    {
+      "name": "AGENT JACKSON",
+      "id": 22
+    },
+    {
+      "name": "AGENT JOHNSON",
+      "id": 23
+    },
+    {
+      "name": "MAK",
+      "id": 24
+    },
+    {
+      "name": "VIRTUAL CONTROL",
+      "id": 25
+    },
+    {
+      "name": "GATE OPERATIONS",
+      "id": 26
+    },
+    {
+      "name": "INK",
+      "id": 27
+    },
+    {
+      "name": "ZION CONTROLLER",
+      "id": 28
+    },
+    {
+      "name": "MIFUNE",
+      "id": 29
+    },
+    {
+      "name": "ESCORT 1",
+      "id": 30
+    },
+    {
+      "name": "ESCORT 2",
+      "id": 31
+    },
+    {
+      "name": "NEC",
+      "id": 32
+    },
+    {
+      "name": "KIC",
+      "id": 33
+    },
+    {
+      "name": "KID",
+      "id": 34
+    },
+    {
+      "name": "LOCK",
+      "id": 35
+    },
+    {
+      "name": "MOF.PHEUS",
+      "id": 36
+    },
+    {
+      "name": "HNIIANN",
+      "id": 37
+    },
+    {
+      "name": "HAMANN",
+      "id": 38
+    },
+    {
+      "name": "WOMAN",
+      "id": 39
+    },
+    {
+      "name": "KIDS",
+      "id": 40
+    },
+    {
+      "name": "BOY",
+      "id": 41
+    },
+    {
+      "name": "GIRL",
+      "id": 42
+    },
+    {
+      "name": "CAS",
+      "id": 43
+    },
+    {
+      "name": "ZEE",
+      "id": 44
+    },
+    {
+      "name": "PRIESTESS",
+      "id": 45
+    },
+    {
+      "name": "EANANN",
+      "id": 46
+    },
+    {
+      "name": "BANE",
+      "id": 47
+    },
+    {
+      "name": "MALACHI",
+      "id": 48
+    },
+    {
+      "name": "AGENT SMITH",
+      "id": 49
+    },
+    {
+      "name": "JAMANN",
+      "id": 50
+    },
+    {
+      "name": "NEG",
+      "id": 51
+    },
+    {
+      "name": "SERAPH",
+      "id": 52
+    },
+    {
+      "name": "ORACLE",
+      "id": 53
+    },
+    {
+      "name": "FIRST SMITH",
+      "id": 54
+    },
+    {
+      "name": "SMITH",
+      "id": 55
+    },
+    {
+      "name": "COUNCILLOR DILLARD",
+      "id": 56
+    },
+    {
+      "name": "COUNCILLOR WEST",
+      "id": 57
+    },
+    {
+      "name": "COUNCILLOR HAMANN",
+      "id": 58
+    },
+    {
+      "name": "BAILARD",
+      "id": 59
+    },
+    {
+      "name": "MAITRE D'",
+      "id": 60
+    },
+    {
+      "name": "MEROVINGIAN",
+      "id": 61
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        5,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        3,
+        12,
+        13,
+        14,
+        4,
+        15
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        16,
+        17,
+        18,
+        5,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        24
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        4,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        2,
+        26
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        25,
+        27
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        26
+      ]
+    },
+    {
+      "character_ids": [
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        29,
+        30,
+        31,
+        2,
+        5,
+        4,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        35,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        34,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        35,
+        3,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        5,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        39,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        34,
+        45
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        46,
+        38,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        6,
+        3,
+        35
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        38,
+        50,
+        51
+      ]
+    },
+    {
+      "character_ids": [
+        38,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        14,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        44,
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        34,
+        2,
+        5,
+        47,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        35,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        52
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        52
+      ]
+    },
+    {
+      "character_ids": [
+        53
+      ]
+    },
+    {
+      "character_ids": [
+        53,
+        5,
+        52
+      ]
+    },
+    {
+      "character_ids": [
+        49,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        49,
+        5,
+        54
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        49
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        49
+      ]
+    },
+    {
+      "character_ids": [
+        55
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        49,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        35,
+        56,
+        57,
+        58,
+        8,
+        47,
+        59,
+        6
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        5,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        60,
+        3,
+        5,
+        61
+      ]
+    }
+  ]
+}

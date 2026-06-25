@@ -1,0 +1,623 @@
+{
+  "title": "Harry Potter and the Deathly Hallows: Part 2",
+  "year": 2011,
+  "genre": "Fantasy",
+  "box_office_usd": 1342942050,
+  "box_office_display": "$1,342,942,050",
+  "character_count": 42,
+  "scene_count": 79,
+  "character_ids": [
+    {
+      "name": "HARRY",
+      "id": 0
+    },
+    {
+      "name": "HERMIONE",
+      "id": 1
+    },
+    {
+      "name": "BELLATRIX",
+      "id": 2
+    },
+    {
+      "name": "LUCIUS",
+      "id": 3
+    },
+    {
+      "name": "SCABIOR",
+      "id": 4
+    },
+    {
+      "name": "DRACO",
+      "id": 5
+    },
+    {
+      "name": "SNATCHER",
+      "id": 6
+    },
+    {
+      "name": "RON",
+      "id": 7
+    },
+    {
+      "name": "LUNA",
+      "id": 8
+    },
+    {
+      "name": "OLLIVANDER",
+      "id": 9
+    },
+    {
+      "name": "WORMTAIL",
+      "id": 10
+    },
+    {
+      "name": "DOBBY",
+      "id": 11
+    },
+    {
+      "name": "GRIPHOOK",
+      "id": 12
+    },
+    {
+      "name": "BILL",
+      "id": 13
+    },
+    {
+      "name": "FLEUR",
+      "id": 14
+    },
+    {
+      "name": "WARLOCK",
+      "id": 15
+    },
+    {
+      "name": "AGED GOBLIN",
+      "id": 16
+    },
+    {
+      "name": "TALL GOBLIN",
+      "id": 17
+    },
+    {
+      "name": "BOGROD",
+      "id": 18
+    },
+    {
+      "name": "ANOTHER ANGLE",
+      "id": 19
+    },
+    {
+      "name": "BOWL",
+      "id": 20
+    },
+    {
+      "name": "VOLDEMORT",
+      "id": 21
+    },
+    {
+      "name": "ABERFORTH",
+      "id": 22
+    },
+    {
+      "name": "NEVILLE",
+      "id": 23
+    },
+    {
+      "name": "SEAMUS",
+      "id": 24
+    },
+    {
+      "name": "NIGEL",
+      "id": 25
+    },
+    {
+      "name": "DEAN",
+      "id": 26
+    },
+    {
+      "name": "CHO",
+      "id": 27
+    },
+    {
+      "name": "GINNY",
+      "id": 28
+    },
+    {
+      "name": "ALECTO CARROW",
+      "id": 29
+    },
+    {
+      "name": "SNAPE",
+      "id": 30
+    },
+    {
+      "name": "FOOTSTEPS",
+      "id": 31
+    },
+    {
+      "name": "PANSY PARKINSON",
+      "id": 32
+    },
+    {
+      "name": "FILCH",
+      "id": 33
+    },
+    {
+      "name": "FLITWICK",
+      "id": 34
+    },
+    {
+      "name": "MADAM SPROUT",
+      "id": 35
+    },
+    {
+      "name": "TEACHERS",
+      "id": 36
+    },
+    {
+      "name": "THICKNESSE",
+      "id": 37
+    },
+    {
+      "name": "FRED",
+      "id": 38
+    },
+    {
+      "name": "KINGSLEY SHACKLEBOLT",
+      "id": 39
+    },
+    {
+      "name": "LUPIN",
+      "id": 40
+    },
+    {
+      "name": "TONKS",
+      "id": 41
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        4,
+        5,
+        3,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        0,
+        2,
+        1,
+        7,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        2,
+        12,
+        0,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        11,
+        13,
+        8
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8,
+        13,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        12,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        0,
+        7,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        1,
+        0,
+        14,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        0,
+        7,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        2,
+        12,
+        7,
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        16,
+        2,
+        17,
+        12,
+        7,
+        18,
+        19,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        12,
+        7,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        1,
+        12,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        1,
+        20,
+        12,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        12,
+        7,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        7,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        7,
+        0,
+        22
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7,
+        1,
+        22,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        22,
+        0,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        23,
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        23,
+        25,
+        0,
+        26,
+        8,
+        7,
+        27,
+        28
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        29
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        30,
+        31,
+        0,
+        21,
+        32,
+        33,
+        23,
+        24,
+        34,
+        35
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        36
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7,
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        21,
+        37
+      ]
+    },
+    {
+      "character_ids": [
+        38,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        24,
+        23
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        39,
+        26,
+        40,
+        41
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    }
+  ]
+}

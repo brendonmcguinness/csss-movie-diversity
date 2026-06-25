@@ -1,0 +1,644 @@
+{
+  "title": "The Village",
+  "year": 2003,
+  "genre": "Thriller",
+  "box_office_usd": 256697520,
+  "box_office_display": "$256,697,520",
+  "character_count": 52,
+  "scene_count": 85,
+  "character_ids": [
+    {
+      "name": "WALKER",
+      "id": 0
+    },
+    {
+      "name": "SCREAMS. IT IS NOT HUMAN",
+      "id": 1
+    },
+    {
+      "name": "THE BRASS BELL SOUNDS AGAIN",
+      "id": 2
+    },
+    {
+      "name": "FACE",
+      "id": 3
+    },
+    {
+      "name": "THE DIRT",
+      "id": 4
+    },
+    {
+      "name": "THIN BOY",
+      "id": 5
+    },
+    {
+      "name": "MARYBETH",
+      "id": 6
+    },
+    {
+      "name": "DONALD",
+      "id": 7
+    },
+    {
+      "name": "MARY",
+      "id": 8
+    },
+    {
+      "name": "TWELVE-YEAR OLD BOY",
+      "id": 9
+    },
+    {
+      "name": "FIDGETY WOMAN",
+      "id": 10
+    },
+    {
+      "name": "TABITHA",
+      "id": 11
+    },
+    {
+      "name": "EDWARD",
+      "id": 12
+    },
+    {
+      "name": "AUGUST",
+      "id": 13
+    },
+    {
+      "name": "GREEN EYES",
+      "id": 14
+    },
+    {
+      "name": "ALICE",
+      "id": 15
+    },
+    {
+      "name": "LUCIUS",
+      "id": 16
+    },
+    {
+      "name": "FINTON",
+      "id": 17
+    },
+    {
+      "name": "GIRL",
+      "id": 18
+    },
+    {
+      "name": "KITTY",
+      "id": 19
+    },
+    {
+      "name": "IVY",
+      "id": 20
+    },
+    {
+      "name": "MAN",
+      "id": 21
+    },
+    {
+      "name": "CHRISTOP",
+      "id": 22
+    },
+    {
+      "name": "TREE STUMP",
+      "id": 23
+    },
+    {
+      "name": "BOY ON STUMP",
+      "id": 24
+    },
+    {
+      "name": "CRUNCHED",
+      "id": 25
+    },
+    {
+      "name": "NOAH",
+      "id": 26
+    },
+    {
+      "name": "TEACHER",
+      "id": 27
+    },
+    {
+      "name": "GIRL'S VOICE FROM BUSH",
+      "id": 28
+    },
+    {
+      "name": "ECHOES THROUGH THE AIR",
+      "id": 29
+    },
+    {
+      "name": "OF THE CABIN",
+      "id": 30
+    },
+    {
+      "name": "OUTSIDE",
+      "id": 31
+    },
+    {
+      "name": "TOWARDS THE PORCH",
+      "id": 32
+    },
+    {
+      "name": "PORCH",
+      "id": 33
+    },
+    {
+      "name": "REAL TIME",
+      "id": 34
+    },
+    {
+      "name": "OF LIGHT FALLS ON THEIR FACES",
+      "id": 35
+    },
+    {
+      "name": "VIVIAN",
+      "id": 36
+    },
+    {
+      "name": "MRS. PERCY",
+      "id": 37
+    },
+    {
+      "name": "CLASS",
+      "id": 38
+    },
+    {
+      "name": "HEARD IN THE AIR",
+      "id": 39
+    },
+    {
+      "name": "SLAB OF MEAT",
+      "id": 40
+    },
+    {
+      "name": "MRS. CLACK",
+      "id": 41
+    },
+    {
+      "name": "DIN FROM BELOW",
+      "id": 42
+    },
+    {
+      "name": "BOY",
+      "id": 43
+    },
+    {
+      "name": "GERALD",
+      "id": 44
+    },
+    {
+      "name": "BEATRICE",
+      "id": 45
+    },
+    {
+      "name": "BLADE FROM LUCIUS'STOMACH",
+      "id": 46
+    },
+    {
+      "name": "DOWN OVER LUCIUS",
+      "id": 47
+    },
+    {
+      "name": "NOAH POINTS AT HIS WET SHIRT",
+      "id": 48
+    },
+    {
+      "name": "FLUSTERED MAN",
+      "id": 49
+    },
+    {
+      "name": "WE HEAR MANY FOOTSTEPS NOW",
+      "id": 50
+    },
+    {
+      "name": "WE HEAR MORE FOOTSTEPS APPROACH",
+      "id": 51
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        0,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        26
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        26,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        16
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        28,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        30
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        20,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "character_ids": [
+        34,
+        35
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        13,
+        36
+      ]
+    },
+    {
+      "character_ids": [
+        37,
+        38
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        39,
+        40
+      ]
+    },
+    {
+      "character_ids": [
+        41,
+        20,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        16
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        42
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        43,
+        12,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        44
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        20,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        45
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        16,
+        46,
+        47
+      ]
+    },
+    {
+      "character_ids": [
+        36
+      ]
+    },
+    {
+      "character_ids": [
+        48,
+        26
+      ]
+    },
+    {
+      "character_ids": [
+        49,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        13,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        50,
+        51,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        41
+      ]
+    }
+  ]
+}

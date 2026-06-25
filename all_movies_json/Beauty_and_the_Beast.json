@@ -1,0 +1,608 @@
+{
+  "title": "Beauty and the Beast",
+  "year": 2017,
+  "genre": "Fantasy",
+  "box_office_usd": 1266115964,
+  "box_office_display": "$1,266,115,964",
+  "character_count": 32,
+  "scene_count": 92,
+  "character_ids": [
+    {
+      "name": "NARRATOR",
+      "id": 0
+    },
+    {
+      "name": "DIVA",
+      "id": 1
+    },
+    {
+      "name": "SHADOW OF A HIDEOUS BEAST",
+      "id": 2
+    },
+    {
+      "name": "BELLE",
+      "id": 3
+    },
+    {
+      "name": "VILLAGERS",
+      "id": 4
+    },
+    {
+      "name": "VAGRANT",
+      "id": 5
+    },
+    {
+      "name": "JEAN",
+      "id": 6
+    },
+    {
+      "name": "NASTY HEADMASTER",
+      "id": 7
+    },
+    {
+      "name": "GIRLS",
+      "id": 8
+    },
+    {
+      "name": "CLOTHILDE",
+      "id": 9
+    },
+    {
+      "name": "PERE ROBERT",
+      "id": 10
+    },
+    {
+      "name": "GASTON",
+      "id": 11
+    },
+    {
+      "name": "LEFOU",
+      "id": 12
+    },
+    {
+      "name": "VILLAGE LASSES",
+      "id": 13
+    },
+    {
+      "name": "BARMAID",
+      "id": 14
+    },
+    {
+      "name": "WOOD CARRIER",
+      "id": 15
+    },
+    {
+      "name": "COBBLER",
+      "id": 16
+    },
+    {
+      "name": "VILLAGE MEN",
+      "id": 17
+    },
+    {
+      "name": "MAURICE",
+      "id": 18
+    },
+    {
+      "name": "WASHER GIRL",
+      "id": 19
+    },
+    {
+      "name": "CHIP",
+      "id": 20
+    },
+    {
+      "name": "COGSWORTH",
+      "id": 21
+    },
+    {
+      "name": "THE BEAST",
+      "id": 22
+    },
+    {
+      "name": "PLUMETTE",
+      "id": 23
+    },
+    {
+      "name": "GARDEROBE",
+      "id": 24
+    },
+    {
+      "name": "TAVERN KEEPER",
+      "id": 25
+    },
+    {
+      "name": "MRS. POTTS",
+      "id": 26
+    },
+    {
+      "name": "CADENZA",
+      "id": 27
+    },
+    {
+      "name": "CHANDELIER CANDLESTICKS",
+      "id": 28
+    },
+    {
+      "name": "ENCHANTED ROSE",
+      "id": 29
+    },
+    {
+      "name": "WOLVES HOWL NEARBY",
+      "id": 30
+    },
+    {
+      "name": "AGATHE",
+      "id": 31
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        5,
+        3,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        13,
+        14,
+        15,
+        16,
+        3,
+        17
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        19,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        9
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        18
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        18
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        21,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        18,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        18,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        23,
+        24
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11,
+        12,
+        4,
+        18,
+        25,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        26
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        21,
+        22,
+        26
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        26
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        26,
+        23,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        23,
+        22,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        22
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        21,
+        26,
+        20
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        26,
+        20,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        27,
+        21,
+        26,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        26
+      ]
+    },
+    {
+      "character_ids": [
+        26
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        29,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        30
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        11,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        3,
+        26
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        26
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        31
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        22
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        26,
+        21,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        22
+      ]
+    }
+  ]
+}

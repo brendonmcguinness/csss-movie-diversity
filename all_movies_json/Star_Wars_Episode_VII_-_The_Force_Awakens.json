@@ -1,0 +1,787 @@
+{
+  "title": "Star Wars: Episode VII - The Force Awakens",
+  "year": 2015,
+  "genre": "Sci-Fi",
+  "box_office_usd": 2071310218,
+  "box_office_display": "$2,071,310,218",
+  "character_count": 26,
+  "scene_count": 139,
+  "character_ids": [
+    {
+      "name": "LOR SAN TEKKA",
+      "id": 0
+    },
+    {
+      "name": "POE",
+      "id": 1
+    },
+    {
+      "name": "SENIOR TROOPER",
+      "id": 2
+    },
+    {
+      "name": "KYLO REN",
+      "id": 3
+    },
+    {
+      "name": "CAPTAIN PHASMA",
+      "id": 4
+    },
+    {
+      "name": "BACKS AWAY:",
+      "id": 5
+    },
+    {
+      "name": "UNKAR",
+      "id": 6
+    },
+    {
+      "name": "REY",
+      "id": 7
+    },
+    {
+      "name": "GENERAL HUX",
+      "id": 8
+    },
+    {
+      "name": "STORMTROOPER",
+      "id": 9
+    },
+    {
+      "name": "STAR DESTROYER TECHNICIAN",
+      "id": 10
+    },
+    {
+      "name": "FIRST ORDER COLONEL",
+      "id": 11
+    },
+    {
+      "name": "FINN",
+      "id": 12
+    },
+    {
+      "name": "LIEUTENANT MITAKA",
+      "id": 13
+    },
+    {
+      "name": "INSTRUMENTATION PANEL:",
+      "id": 14
+    },
+    {
+      "name": "HAN",
+      "id": 15
+    },
+    {
+      "name": "THE HYPERDRIVE",
+      "id": 16
+    },
+    {
+      "name": "BALA-TIK",
+      "id": 17
+    },
+    {
+      "name": "TASU LEECH",
+      "id": 18
+    },
+    {
+      "name": "RAZOO QIN-FEE",
+      "id": 19
+    },
+    {
+      "name": "SNOKE",
+      "id": 20
+    },
+    {
+      "name": "DOWN:",
+      "id": 21
+    },
+    {
+      "name": "MAZ",
+      "id": 22
+    },
+    {
+      "name": "BAZINE",
+      "id": 23
+    },
+    {
+      "name": "GIRL",
+      "id": 24
+    },
+    {
+      "name": "UNKAR PLUTT",
+      "id": 25
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        3,
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        6
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        8,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        7,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        13,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        12,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        16,
+        15,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        15,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        7,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        12,
+        17,
+        15,
+        18,
+        19
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        8,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        12,
+        7,
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        15,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        15,
+        23
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        15,
+        12,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        24,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        22
+      ]
+    }
+  ]
+}

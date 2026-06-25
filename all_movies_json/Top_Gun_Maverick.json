@@ -1,0 +1,863 @@
+{
+  "title": "Top Gun: Maverick",
+  "year": 2022,
+  "genre": "Action",
+  "box_office_usd": 1503260455,
+  "box_office_display": "$1,503,260,455",
+  "character_count": 34,
+  "scene_count": 132,
+  "character_ids": [
+    {
+      "name": "MAVERICK",
+      "id": 0
+    },
+    {
+      "name": "MAN",
+      "id": 1
+    },
+    {
+      "name": "TEEN",
+      "id": 2
+    },
+    {
+      "name": "MATTHEW",
+      "id": 3
+    },
+    {
+      "name": "HONDO",
+      "id": 4
+    },
+    {
+      "name": "JACK",
+      "id": 5
+    },
+    {
+      "name": "SIMON",
+      "id": 6
+    },
+    {
+      "name": "TOWER",
+      "id": 7
+    },
+    {
+      "name": "JOSHUA",
+      "id": 8
+    },
+    {
+      "name": "CAIN'S AIDE",
+      "id": 9
+    },
+    {
+      "name": "CAIN",
+      "id": 10
+    },
+    {
+      "name": "WITH ICE CREAM",
+      "id": 11
+    },
+    {
+      "name": "ADMIRAL'S AIDE",
+      "id": 12
+    },
+    {
+      "name": "CYCLONE",
+      "id": 13
+    },
+    {
+      "name": "WARLOCK",
+      "id": 14
+    },
+    {
+      "name": "PENNY",
+      "id": 15
+    },
+    {
+      "name": "FERG",
+      "id": 16
+    },
+    {
+      "name": "HANGMAN",
+      "id": 17
+    },
+    {
+      "name": "PHOENIX",
+      "id": 18
+    },
+    {
+      "name": "COYOTE",
+      "id": 19
+    },
+    {
+      "name": "PAYBACK",
+      "id": 20
+    },
+    {
+      "name": "FANBOY",
+      "id": 21
+    },
+    {
+      "name": "BOB",
+      "id": 22
+    },
+    {
+      "name": "ROOSTER",
+      "id": 23
+    },
+    {
+      "name": "OVERBOAAAAAAAARD",
+      "id": 24
+    },
+    {
+      "name": "OVERBOARD. OVERBOARD",
+      "id": 25
+    },
+    {
+      "name": "CLASS",
+      "id": 26
+    },
+    {
+      "name": "ALL TRAINEES BUT ROOSTER",
+      "id": 27
+    },
+    {
+      "name": "HALO",
+      "id": 28
+    },
+    {
+      "name": "HARVARD",
+      "id": 29
+    },
+    {
+      "name": "REMAINING PILOT",
+      "id": 30
+    },
+    {
+      "name": "AMELIA",
+      "id": 31
+    },
+    {
+      "name": "YALE",
+      "id": 32
+    },
+    {
+      "name": "SARAH",
+      "id": 33
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        7,
+        4,
+        8,
+        6,
+        3,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        4,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        3,
+        6,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        4,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        6,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        6,
+        0,
+        3,
+        5,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        5,
+        6,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        0,
+        14
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        15,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        18,
+        23,
+        15,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        23,
+        20,
+        18,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        0,
+        24,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        23
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        0,
+        17,
+        18,
+        4,
+        19,
+        21,
+        20,
+        26,
+        27
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        17,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        21,
+        20,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        21,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        23,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        21,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        29
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        23,
+        17
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        17,
+        18,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        22,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        17,
+        22,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        17,
+        18,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        28,
+        30
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17,
+        23,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        23
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        23
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        18,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        19,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        0,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        14
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        31,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        31,
+        15,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        23
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        22,
+        18
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        19
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        18,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        17,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        17,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        32,
+        0,
+        18,
+        17,
+        19,
+        21,
+        20,
+        22
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        33,
+        0
+      ]
+    }
+  ]
+}

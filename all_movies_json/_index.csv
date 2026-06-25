@@ -1,0 +1,49 @@
+title,year,genre,box_office_usd,characters,scenes,json_file
+Titanic,1997,Romance,2264812968,25,58,all_movies/Titanic.json
+Star Wars: Episode I - The Phantom Menace,1999,Sci-Fi,1046515409,37,46,all_movies/Star_Wars_Episode_I_-_The_Phantom_Menace.json
+The Sixth Sense,1999,Thriller,672806731,23,64,all_movies/The_Sixth_Sense.json
+The Matrix,1999,Sci-Fi,473328167,22,142,all_movies/The_Matrix.json
+Harry Potter and the Sorcerer's Stone,2001,Fantasy,1029374615,48,71,all_movies/Harry_Potter_and_the_Sorcerer_s_Stone.json
+The Lord of the Rings: The Fellowship of the Ring,2001,Fantasy,897519866,28,80,all_movies/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring.json
+"Monsters, Inc.",2001,Animation,579773055,56,94,all_movies/Monsters_Inc.json
+Shrek,2001,Animation,489652025,27,17,all_movies/Shrek.json
+Ocean's Eleven,2001,Crime,450717527,39,115,all_movies/Ocean_s_Eleven.json
+The Lord of the Rings: The Return of the King,2003,Fantasy,1149453674,43,91,all_movies/The_Lord_of_the_Rings_The_Return_of_the_King.json
+Finding Nemo,2003,Animation,941637960,64,1,all_movies/Finding_Nemo.json
+The Matrix Reloaded,2003,Sci-Fi,741847937,62,97,all_movies/The_Matrix_Reloaded.json
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,Adventure,654264546,30,82,all_movies/Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl.json
+Bruce Almighty,2003,Comedy,484592874,47,114,all_movies/Bruce_Almighty.json
+The Matrix Revolutions,2003,Sci-Fi,427344325,46,126,all_movies/The_Matrix_Revolutions.json
+X2: X-Men United,2003,Action,407711549,57,120,all_movies/X2_X-Men_United.json
+Something's Gotta Give,2003,Romance,265328837,20,69,all_movies/Something_s_Gotta_Give.json
+The Village,2003,Thriller,256697520,52,85,all_movies/The_Village.json
+Love Actually,2003,Romance,252591708,76,64,all_movies/Love_Actually.json
+2 Fast 2 Furious,2003,Action,236353236,38,126,all_movies/2_Fast_2_Furious.json
+Star Wars: Episode III - Revenge of the Sith,2005,Sci-Fi,905595947,36,102,all_movies/Star_Wars_Episode_III_-_Revenge_of_the_Sith.json
+Harry Potter and the Goblet of Fire,2005,Fantasy,900435886,71,68,all_movies/Harry_Potter_and_the_Goblet_of_Fire.json
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Fantasy,745013115,25,4,all_movies/The_Chronicles_of_Narnia_The_Lion_the_Witch_and_the_Wardrobe.json
+War of the Worlds,2005,Sci-Fi,603874366,46,19,all_movies/War_of_the_Worlds.json
+King Kong,2005,Adventure,556907510,45,167,all_movies/King_Kong.json
+Pirates of the Caribbean: At World's End,2007,Adventure,961691209,34,81,all_movies/Pirates_of_the_Caribbean_At_World_s_End.json
+Shrek the Third,2007,Animation,808310187,61,60,all_movies/Shrek_the_Third.json
+Transformers,2007,Sci-Fi,709709780,50,94,all_movies/Transformers.json
+Avatar,2009,Sci-Fi,2923710708,21,59,all_movies/Avatar.json
+Harry Potter and the Half-Blood Prince,2009,Fantasy,941056063,35,80,all_movies/Harry_Potter_and_the_Half-Blood_Prince.json
+2012,2009,Action,791217826,56,132,all_movies/2012.json
+Harry Potter and the Deathly Hallows: Part 2,2011,Fantasy,1342942050,42,79,all_movies/Harry_Potter_and_the_Deathly_Hallows_Part_2.json
+Pirates of the Caribbean: On Stranger Tides,2011,Adventure,1046721266,37,64,all_movies/Pirates_of_the_Caribbean_On_Stranger_Tides.json
+The Avengers,2012,Action,1520538536,42,142,all_movies/The_Avengers.json
+Frozen,2013,Animation,1284879663,75,50,all_movies/Frozen.json
+Despicable Me 2,2013,Animation,970766005,32,100,all_movies/Despicable_Me_2.json
+The Hobbit: The Desolation of Smaug,2013,Fantasy,959079095,48,71,all_movies/The_Hobbit_The_Desolation_of_Smaug.json
+The Hunger Games: Catching Fire,2013,Sci-Fi,865216075,37,111,all_movies/The_Hunger_Games_Catching_Fire.json
+Star Wars: Episode VII - The Force Awakens,2015,Sci-Fi,2071310218,26,139,all_movies/Star_Wars_Episode_VII_-_The_Force_Awakens.json
+Minions,2015,Animation,1159457503,73,88,all_movies/Minions.json
+Beauty and the Beast,2017,Fantasy,1266115964,32,92,all_movies/Beauty_and_the_Beast.json
+Black Panther,2018,Action,1349926083,44,149,all_movies/Black_Panther.json
+Avengers: Endgame,2019,Action,2799439100,40,93,all_movies/Avengers_Endgame.json
+Spider-Man: No Way Home,2021,Action,1921426073,50,68,all_movies/Spider-Man_No_Way_Home.json
+Top Gun: Maverick,2022,Action,1503260455,34,132,all_movies/Top_Gun_Maverick.json
+Barbie,2023,Comedy,1447138421,69,66,all_movies/Barbie.json
+Inside Out 2,2024,Animation,1698863816,68,50,all_movies/Inside_Out_2.json
+Deadpool & Wolverine,2024,Action,1338073645,32,42,all_movies/Deadpool_Wolverine.json

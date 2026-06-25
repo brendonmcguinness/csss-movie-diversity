@@ -1,0 +1,683 @@
+{
+  "title": "Transformers",
+  "year": 2007,
+  "genre": "Sci-Fi",
+  "box_office_usd": 709709780,
+  "box_office_display": "$709,709,780",
+  "character_count": 50,
+  "scene_count": 94,
+  "character_ids": [
+    {
+      "name": "CAPTAIN",
+      "id": 0
+    },
+    {
+      "name": "HAVE TURNED COMPLETELY WHITE",
+      "id": 1
+    },
+    {
+      "name": "LENNOX",
+      "id": 2
+    },
+    {
+      "name": "FIGUEROA",
+      "id": 3
+    },
+    {
+      "name": "DONNELY",
+      "id": 4
+    },
+    {
+      "name": "EPPS",
+      "id": 5
+    },
+    {
+      "name": "MAHFOUZ",
+      "id": 6
+    },
+    {
+      "name": "RADAR TECH",
+      "id": 7
+    },
+    {
+      "name": "SOCCENT WATCH COMMANDER",
+      "id": 8
+    },
+    {
+      "name": "SARAH",
+      "id": 9
+    },
+    {
+      "name": "I SARAH",
+      "id": 10
+    },
+    {
+      "name": "SARAH LENNOX",
+      "id": 11
+    },
+    {
+      "name": "MILES",
+      "id": 12
+    },
+    {
+      "name": "SAM",
+      "id": 13
+    },
+    {
+      "name": "MIKAELA",
+      "id": 14
+    },
+    {
+      "name": "TRENT",
+      "id": 15
+    },
+    {
+      "name": "MR. HOSNEY",
+      "id": 16
+    },
+    {
+      "name": "RON",
+      "id": 17
+    },
+    {
+      "name": "BOBBY BOLIVIA",
+      "id": 18
+    },
+    {
+      "name": ";BOBBY BOLIVIA",
+      "id": 19
+    },
+    {
+      "name": "GLEN",
+      "id": 20
+    },
+    {
+      "name": "MAGGIE",
+      "id": 21
+    },
+    {
+      "name": "CABBIE",
+      "id": 22
+    },
+    {
+      "name": "OFFICIAL",
+      "id": 23
+    },
+    {
+      "name": "ANALYST",
+      "id": 24
+    },
+    {
+      "name": "KELLER",
+      "id": 25
+    },
+    {
+      "name": "GRANDFATHER'S GLASSES",
+      "id": 26
+    },
+    {
+      "name": "JUDY",
+      "id": 27
+    },
+    {
+      "name": "COACH",
+      "id": 28
+    },
+    {
+      "name": "J",
+      "id": 29
+    },
+    {
+      "name": "GENERAL",
+      "id": 30
+    },
+    {
+      "name": "AIDE",
+      "id": 31
+    },
+    {
+      "name": "PENTAGON WATCH COMMANDER",
+      "id": 32
+    },
+    {
+      "name": "ADMIRAL BRIGHAM",
+      "id": 33
+    },
+    {
+      "name": "NERVOUS TECHIE",
+      "id": 34
+    },
+    {
+      "name": "KELBR",
+      "id": 35
+    },
+    {
+      "name": "THE WHEEL WELL",
+      "id": 36
+    },
+    {
+      "name": "SHERIFF",
+      "id": 37
+    },
+    {
+      "name": "AKRAM",
+      "id": 38
+    },
+    {
+      "name": "INDIAN OPERATOR",
+      "id": 39
+    },
+    {
+      "name": "PENTAGON OPERATOR",
+      "id": 40
+    },
+    {
+      "name": "CONSOLE TECH",
+      "id": 41
+    },
+    {
+      "name": "TECHIE",
+      "id": 42
+    },
+    {
+      "name": "SM",
+      "id": 43
+    },
+    {
+      "name": "SAM'",
+      "id": 44
+    },
+    {
+      "name": "GLEN'S GRANDMA",
+      "id": 45
+    },
+    {
+      "name": "AGENT",
+      "id": 46
+    },
+    {
+      "name": "MAGG",
+      "id": 47
+    },
+    {
+      "name": "MIKAELA SAM",
+      "id": 48
+    },
+    {
+      "name": "TELEPHONE POLES",
+      "id": 49
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        4,
+        5,
+        3,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        8
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        2,
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        13,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        25,
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        5,
+        2,
+        3,
+        6,
+        25
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        13,
+        26
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        27,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        15,
+        14,
+        28,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        13,
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        30,
+        31
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        32,
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        33,
+        21,
+        34,
+        25,
+        35
+      ]
+    },
+    {
+      "character_ids": [
+        36,
+        37
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        37
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        38,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        39
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        3,
+        39,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        40,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        41,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        42
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        43,
+        27,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        13,
+        44
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        20,
+        45,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        31,
+        46,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        20,
+        21,
+        47
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        14,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        48
+      ]
+    },
+    {
+      "character_ids": [
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        49
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        14
+      ]
+    }
+  ]
+}

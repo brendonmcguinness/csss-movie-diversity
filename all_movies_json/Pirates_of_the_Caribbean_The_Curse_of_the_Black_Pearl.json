@@ -1,0 +1,560 @@
+{
+  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "year": 2003,
+  "genre": "Adventure",
+  "box_office_usd": 654264546,
+  "box_office_display": "$654,264,546",
+  "character_count": 30,
+  "scene_count": 82,
+  "character_ids": [
+    {
+      "name": "ELIZABETH",
+      "id": 0
+    },
+    {
+      "name": "GIBBS",
+      "id": 1
+    },
+    {
+      "name": "NORRINGTON",
+      "id": 2
+    },
+    {
+      "name": "SWANN",
+      "id": 3
+    },
+    {
+      "name": "WILL",
+      "id": 4
+    },
+    {
+      "name": "BUTLER",
+      "id": 5
+    },
+    {
+      "name": "HARBORMASTER",
+      "id": 6
+    },
+    {
+      "name": "JACK",
+      "id": 7
+    },
+    {
+      "name": "MURTOGG",
+      "id": 8
+    },
+    {
+      "name": "MULLROY",
+      "id": 9
+    },
+    {
+      "name": "MULLOY",
+      "id": 10
+    },
+    {
+      "name": "AT THE FORT",
+      "id": 11
+    },
+    {
+      "name": "GILLETTE",
+      "id": 12
+    },
+    {
+      "name": "UNDERWATER",
+      "id": 13
+    },
+    {
+      "name": "AT THE DOCK",
+      "id": 14
+    },
+    {
+      "name": "BROWN",
+      "id": 15
+    },
+    {
+      "name": "PRISONER",
+      "id": 16
+    },
+    {
+      "name": "PINTEL",
+      "id": 17
+    },
+    {
+      "name": "ESTRELLA",
+      "id": 18
+    },
+    {
+      "name": "SMOLDERING PIRATE",
+      "id": 19
+    },
+    {
+      "name": "TWIGG",
+      "id": 20
+    },
+    {
+      "name": "KOEHLER",
+      "id": 21
+    },
+    {
+      "name": "BOSUN",
+      "id": 22
+    },
+    {
+      "name": "BARBOSSA",
+      "id": 23
+    },
+    {
+      "name": "SENTRY",
+      "id": 24
+    },
+    {
+      "name": "STEERSMAN",
+      "id": 25
+    },
+    {
+      "name": "SKELETONS",
+      "id": 26
+    },
+    {
+      "name": "ANAMARIA",
+      "id": 27
+    },
+    {
+      "name": "COTTON'S PARROT",
+      "id": 28
+    },
+    {
+      "name": "JACOBY",
+      "id": 29
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        0,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        4,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        6,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        9,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        14,
+        9,
+        7,
+        2,
+        3,
+        0,
+        8
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        7,
+        2,
+        15
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        16,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        16
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        17,
+        19
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        16,
+        7,
+        20,
+        21
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        22,
+        17,
+        0,
+        23
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        2,
+        3,
+        8,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        4,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        8,
+        9,
+        12,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        7,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        7,
+        12,
+        25
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        26,
+        23
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        27,
+        7,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        7,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        27,
+        7,
+        28,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        20,
+        29,
+        23
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7,
+        1,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        21,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        28,
+        27,
+        7
+      ]
+    },
+    {
+      "character_ids": []
+    }
+  ]
+}

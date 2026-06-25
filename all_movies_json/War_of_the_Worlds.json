@@ -1,0 +1,365 @@
+{
+  "title": "War of the Worlds",
+  "year": 2005,
+  "genre": "Sci-Fi",
+  "box_office_usd": 603874366,
+  "box_office_display": "$603,874,366",
+  "character_count": 46,
+  "scene_count": 19,
+  "character_ids": [
+    {
+      "name": "MARY AHR",
+      "id": 0
+    },
+    {
+      "name": "RAY",
+      "id": 1
+    },
+    {
+      "name": "ROBBIB",
+      "id": 2
+    },
+    {
+      "name": "RACUL",
+      "id": 3
+    },
+    {
+      "name": "JIOIBIJS",
+      "id": 4
+    },
+    {
+      "name": "RACHEL",
+      "id": 5
+    },
+    {
+      "name": "RACJIBL",
+      "id": 6
+    },
+    {
+      "name": "RA.CUL",
+      "id": 7
+    },
+    {
+      "name": "OH TV",
+      "id": 8
+    },
+    {
+      "name": "RACHBL",
+      "id": 9
+    },
+    {
+      "name": "RACBBL",
+      "id": 10
+    },
+    {
+      "name": "IBXT-DOOR RBIGBBOR",
+      "id": 11
+    },
+    {
+      "name": "HBXT-DOOR HBIGHBOR",
+      "id": 12
+    },
+    {
+      "name": "THROUGH THE WIRDOW",
+      "id": 13
+    },
+    {
+      "name": "ROBBIE",
+      "id": 14
+    },
+    {
+      "name": "IWIHY",
+      "id": 15
+    },
+    {
+      "name": "VIRCBBT",
+      "id": 16
+    },
+    {
+      "name": "JOLIO",
+      "id": 17
+    },
+    {
+      "name": "VINCBHT",
+      "id": 18
+    },
+    {
+      "name": "JULIO",
+      "id": 19
+    },
+    {
+      "name": "GUY 2",
+      "id": 20
+    },
+    {
+      "name": "GUY 1",
+      "id": 21
+    },
+    {
+      "name": "IT'S MOVIBGI",
+      "id": 22
+    },
+    {
+      "name": "RACBIL",
+      "id": 23
+    },
+    {
+      "name": "RO'BBIB",
+      "id": 24
+    },
+    {
+      "name": "IIABHY",
+      "id": 25
+    },
+    {
+      "name": "MABWY",
+      "id": 26
+    },
+    {
+      "name": "ROIBIB",
+      "id": 27
+    },
+    {
+      "name": "I J.QIOWI",
+      "id": 28
+    },
+    {
+      "name": "BIGHT",
+      "id": 29
+    },
+    {
+      "name": "R.OBBIB",
+      "id": 30
+    },
+    {
+      "name": "R.ACIIBL",
+      "id": 31
+    },
+    {
+      "name": "TICK. TICK. TICK",
+      "id": 32
+    },
+    {
+      "name": "THROOGR TRB WINDOW",
+      "id": 33
+    },
+    {
+      "name": "IB TOTAL BLACK",
+      "id": 34
+    },
+    {
+      "name": "RACRBL",
+      "id": 35
+    },
+    {
+      "name": "MEWS PRODUCER",
+      "id": 36
+    },
+    {
+      "name": "BBWS PRODUCBR",
+      "id": 37
+    },
+    {
+      "name": "HBWS PRODUCER",
+      "id": 38
+    },
+    {
+      "name": "SSA CONTINUED",
+      "id": 39
+    },
+    {
+      "name": "SSA",
+      "id": 40
+    },
+    {
+      "name": "NEWS PRODUCER",
+      "id": 41
+    },
+    {
+      "name": "BBWS PRODUCER",
+      "id": 42
+    },
+    {
+      "name": "CAMBRAIIAH",
+      "id": 43
+    },
+    {
+      "name": "BEWS PRODIJCBR",
+      "id": 44
+    },
+    {
+      "name": "RACDL",
+      "id": 45
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        8,
+        1,
+        9,
+        5,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        1,
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        5,
+        1,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        2,
+        14,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        14,
+        23,
+        24,
+        9,
+        5,
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        1,
+        25,
+        10,
+        26,
+        14,
+        9,
+        27,
+        5,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        14,
+        1,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        14,
+        1,
+        2,
+        5,
+        9,
+        30,
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        29,
+        9,
+        14,
+        1,
+        5,
+        10,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        32,
+        33,
+        1,
+        9,
+        2,
+        5,
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        35,
+        1,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        45,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        2,
+        14,
+        10
+      ]
+    }
+  ]
+}

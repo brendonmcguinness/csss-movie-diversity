@@ -1,0 +1,473 @@
+{
+  "title": "Something's Gotta Give",
+  "year": 2003,
+  "genre": "Romance",
+  "box_office_usd": 265328837,
+  "box_office_display": "$265,328,837",
+  "character_count": 20,
+  "scene_count": 69,
+  "character_ids": [
+    {
+      "name": "HARRY",
+      "id": 0
+    },
+    {
+      "name": "MAITRE'D",
+      "id": 1
+    },
+    {
+      "name": "MARIN",
+      "id": 2
+    },
+    {
+      "name": "BARRY",
+      "id": 3
+    },
+    {
+      "name": "ERICA",
+      "id": 4
+    },
+    {
+      "name": "ZOE",
+      "id": 5
+    },
+    {
+      "name": "FRENCH GIRL",
+      "id": 6
+    },
+    {
+      "name": "THE BAREFOOT CONTESSA",
+      "id": 7
+    },
+    {
+      "name": "AND A LOUD CLANG",
+      "id": 8
+    },
+    {
+      "name": "ONTO A BED",
+      "id": 9
+    },
+    {
+      "name": "JULIAN",
+      "id": 10
+    },
+    {
+      "name": "THE HALLWAY",
+      "id": 11
+    },
+    {
+      "name": "NURSE",
+      "id": 12
+    },
+    {
+      "name": "LOWELL",
+      "id": 13
+    },
+    {
+      "name": "KIM",
+      "id": 14
+    },
+    {
+      "name": "DAVE",
+      "id": 15
+    },
+    {
+      "name": "LEX",
+      "id": 16
+    },
+    {
+      "name": "LEXI",
+      "id": 17
+    },
+    {
+      "name": "ERICA'S BED",
+      "id": 18
+    },
+    {
+      "name": "HARRY FLOPS ONTO HIS BED",
+      "id": 19
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        0,
+        2,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        4,
+        5,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        5,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        4,
+        8,
+        9,
+        10,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        0,
+        11,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        5,
+        4,
+        10,
+        12,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        13,
+        10,
+        0,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        0,
+        4,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        13,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        4,
+        13,
+        16,
+        17,
+        2
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        4,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        10,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        4,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        4,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        4,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        0,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        2,
+        0,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        4,
+        10
+      ]
+    }
+  ]
+}

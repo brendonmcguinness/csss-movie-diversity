@@ -1,0 +1,439 @@
+{
+  "title": "Avatar",
+  "year": 2009,
+  "genre": "Sci-Fi",
+  "box_office_usd": 2923710708,
+  "box_office_display": "$2,923,710,708",
+  "character_count": 21,
+  "scene_count": 59,
+  "character_ids": [
+    {
+      "name": "JAKE",
+      "id": 0
+    },
+    {
+      "name": "PERKY NEWSCASTER",
+      "id": 1
+    },
+    {
+      "name": "AGENT 1",
+      "id": 2
+    },
+    {
+      "name": "AGENT 2",
+      "id": 3
+    },
+    {
+      "name": "MED TECH",
+      "id": 4
+    },
+    {
+      "name": "CREW CHIEF",
+      "id": 5
+    },
+    {
+      "name": "WAINFLEET",
+      "id": 6
+    },
+    {
+      "name": "FIKE",
+      "id": 7
+    },
+    {
+      "name": "QUARITCH",
+      "id": 8
+    },
+    {
+      "name": "NORM",
+      "id": 9
+    },
+    {
+      "name": "MAX",
+      "id": 10
+    },
+    {
+      "name": "GRACE",
+      "id": 11
+    },
+    {
+      "name": "SELFRIDGE",
+      "id": 12
+    },
+    {
+      "name": "TECH",
+      "id": 13
+    },
+    {
+      "name": "TROOPERS",
+      "id": 14
+    },
+    {
+      "name": "TRUDY",
+      "id": 15
+    },
+    {
+      "name": "MECHANIC",
+      "id": 16
+    },
+    {
+      "name": "NEYTIRI",
+      "id": 17
+    },
+    {
+      "name": "TSU'TEY",
+      "id": 18
+    },
+    {
+      "name": "EYTUKAN",
+      "id": 19
+    },
+    {
+      "name": "MO'AT",
+      "id": 20
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        0,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10,
+        11,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        9,
+        0,
+        10,
+        13,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        0,
+        9
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        15,
+        8,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        0,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        11,
+        9,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        9,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        9,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        15,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        17,
+        18
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        19,
+        17,
+        0,
+        20,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        17,
+        18,
+        20,
+        19
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        0,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        0,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        9,
+        11,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        17,
+        0,
+        18,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        15,
+        11,
+        9,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11,
+        0,
+        9,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        11,
+        9,
+        17
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    }
+  ]
+}

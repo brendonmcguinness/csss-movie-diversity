@@ -1,0 +1,739 @@
+{
+  "title": "Love Actually",
+  "year": 2003,
+  "genre": "Romance",
+  "box_office_usd": 252591708,
+  "box_office_display": "$252,591,708",
+  "character_count": 76,
+  "scene_count": 64,
+  "character_ids": [
+    {
+      "name": "PM",
+      "id": 0
+    },
+    {
+      "name": "PETER",
+      "id": 1
+    },
+    {
+      "name": "MARK",
+      "id": 2
+    },
+    {
+      "name": "CHOIR",
+      "id": 3
+    },
+    {
+      "name": "SINGER",
+      "id": 4
+    },
+    {
+      "name": "JULIET",
+      "id": 5
+    },
+    {
+      "name": "NOVEMBER. LONDON",
+      "id": 6
+    },
+    {
+      "name": "PRIEST",
+      "id": 7
+    },
+    {
+      "name": "DANIEL",
+      "id": 8
+    },
+    {
+      "name": "JAMIE",
+      "id": 9
+    },
+    {
+      "name": "CHRIS",
+      "id": 10
+    },
+    {
+      "name": "GIRL",
+      "id": 11
+    },
+    {
+      "name": "ANNIE",
+      "id": 12
+    },
+    {
+      "name": "TERENCE",
+      "id": 13
+    },
+    {
+      "name": "PAT",
+      "id": 14
+    },
+    {
+      "name": "NATALIE",
+      "id": 15
+    },
+    {
+      "name": "COLIN",
+      "id": 16
+    },
+    {
+      "name": "PRETTY GIRL",
+      "id": 17
+    },
+    {
+      "name": "TONY",
+      "id": 18
+    },
+    {
+      "name": "SARAH",
+      "id": 19
+    },
+    {
+      "name": "LEAD SINGER",
+      "id": 20
+    },
+    {
+      "name": "BILLY THE OLD ROCKER",
+      "id": 21
+    },
+    {
+      "name": "JOE",
+      "id": 22
+    },
+    {
+      "name": "BILLY",
+      "id": 23
+    },
+    {
+      "name": "ENGINEER",
+      "id": 24
+    },
+    {
+      "name": "KAREN",
+      "id": 25
+    },
+    {
+      "name": "DAISY",
+      "id": 26
+    },
+    {
+      "name": "BERNIE",
+      "id": 27
+    },
+    {
+      "name": "CHILDREN",
+      "id": 28
+    },
+    {
+      "name": "FOLLOWS THEM",
+      "id": 29
+    },
+    {
+      "name": "DOOR",
+      "id": 30
+    },
+    {
+      "name": "SAM",
+      "id": 31
+    },
+    {
+      "name": "HARRY",
+      "id": 32
+    },
+    {
+      "name": "MEL",
+      "id": 33
+    },
+    {
+      "name": "KARL",
+      "id": 34
+    },
+    {
+      "name": "DJ",
+      "id": 35
+    },
+    {
+      "name": "DJ 2",
+      "id": 36
+    },
+    {
+      "name": "MIKE",
+      "id": 37
+    },
+    {
+      "name": "CHRISTMAS TREE",
+      "id": 38
+    },
+    {
+      "name": "RADIO",
+      "id": 39
+    },
+    {
+      "name": "COMPUTER",
+      "id": 40
+    },
+    {
+      "name": "ELEONORE",
+      "id": 41
+    },
+    {
+      "name": "AURELIA",
+      "id": 42
+    },
+    {
+      "name": "HE SHAKES HER HANO",
+      "id": 43
+    },
+    {
+      "name": "FATHER IN LAW",
+      "id": 44
+    },
+    {
+      "name": "RINGS",
+      "id": 45
+    },
+    {
+      "name": "D.O.P",
+      "id": 46
+    },
+    {
+      "name": "JOHN",
+      "id": 47
+    },
+    {
+      "name": "JUDY",
+      "id": 48
+    },
+    {
+      "name": "HE DOES SO",
+      "id": 49
+    },
+    {
+      "name": "SHE LOOKS PUZZLED",
+      "id": 50
+    },
+    {
+      "name": "PERPLEXED",
+      "id": 51
+    },
+    {
+      "name": "O.O.P",
+      "id": 52
+    },
+    {
+      "name": "FRY",
+      "id": 53
+    },
+    {
+      "name": "CARTER",
+      "id": 54
+    },
+    {
+      "name": "JEREMY",
+      "id": 55
+    },
+    {
+      "name": "BIG SIGH",
+      "id": 56
+    },
+    {
+      "name": "GENERAL GRUDGING ACCEPTANCE",
+      "id": 57
+    },
+    {
+      "name": "PRESIDENT",
+      "id": 58
+    },
+    {
+      "name": "DEC",
+      "id": 59
+    },
+    {
+      "name": "ANT",
+      "id": 60
+    },
+    {
+      "name": "AMERICAN EXPERT",
+      "id": 61
+    },
+    {
+      "name": "AMERICAN PRESIDENT",
+      "id": 62
+    },
+    {
+      "name": "HIMSELF",
+      "id": 63
+    },
+    {
+      "name": "PRESS PERSON",
+      "id": 64
+    },
+    {
+      "name": "PRESS PEOPLE",
+      "id": 65
+    },
+    {
+      "name": "PM'S SECRETARY",
+      "id": 66
+    },
+    {
+      "name": "AS HE TREADS IN DISGUSTING MOD",
+      "id": 67
+    },
+    {
+      "name": "SHE MIMES CLEANING",
+      "id": 68
+    },
+    {
+      "name": "HEADMISTRESS",
+      "id": 69
+    },
+    {
+      "name": "MR TRENCH",
+      "id": 70
+    },
+    {
+      "name": "SHE IS HANDED AN ESSAY",
+      "id": 71
+    },
+    {
+      "name": "BREAKING WIND",
+      "id": 72
+    },
+    {
+      "name": "QUEEN",
+      "id": 73
+    },
+    {
+      "name": "WIND",
+      "id": 74
+    },
+    {
+      "name": "BERNARD",
+      "id": 75
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        1,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        7,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        13,
+        0,
+        14,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        2,
+        17,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        20,
+        2,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        24,
+        0,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        26,
+        27,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        29,
+        25,
+        8,
+        30,
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        18,
+        32
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        33,
+        32,
+        19,
+        25,
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        35
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        36,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        37
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        15,
+        2,
+        33,
+        38,
+        39,
+        32,
+        40
+      ]
+    },
+    {
+      "character_ids": [
+        41,
+        9,
+        42,
+        43
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8,
+        44
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        31,
+        44
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        15
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        8,
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        31,
+        25,
+        32,
+        34,
+        19,
+        45
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        46,
+        47,
+        48,
+        18,
+        49,
+        9,
+        50,
+        51
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        47,
+        52
+      ]
+    },
+    {
+      "character_ids": [
+        47,
+        48,
+        18,
+        0,
+        53,
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        58
+      ]
+    },
+    {
+      "character_ids": [
+        22,
+        23,
+        59,
+        60
+      ]
+    },
+    {
+      "character_ids": [
+        59,
+        23,
+        60,
+        61,
+        54,
+        62,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        58
+      ]
+    },
+    {
+      "character_ids": [
+        58,
+        15,
+        0,
+        16,
+        18,
+        63
+      ]
+    },
+    {
+      "character_ids": [
+        64,
+        58,
+        0,
+        65,
+        66
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        0,
+        32,
+        26
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        42,
+        9,
+        33,
+        32,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        19,
+        32,
+        33
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        12,
+        9,
+        42,
+        67
+      ]
+    },
+    {
+      "character_ids": [
+        42,
+        9,
+        68
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        2,
+        32,
+        25,
+        1,
+        69,
+        70,
+        71,
+        27,
+        72
+      ]
+    },
+    {
+      "character_ids": [
+        73,
+        74
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        75
+      ]
+    }
+  ]
+}

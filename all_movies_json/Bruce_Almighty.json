@@ -1,0 +1,790 @@
+{
+  "title": "Bruce Almighty",
+  "year": 2003,
+  "genre": "Comedy",
+  "box_office_usd": 484592874,
+  "box_office_display": "$484,592,874",
+  "character_count": 47,
+  "scene_count": 114,
+  "character_ids": [
+    {
+      "name": "BRUCE",
+      "id": 0
+    },
+    {
+      "name": "ALLY",
+      "id": 1
+    },
+    {
+      "name": "GUSTOV",
+      "id": 2
+    },
+    {
+      "name": "GRACE",
+      "id": 3
+    },
+    {
+      "name": "NEWS CLIP",
+      "id": 4
+    },
+    {
+      "name": "SPORTSCASTER",
+      "id": 5
+    },
+    {
+      "name": "O",
+      "id": 6
+    },
+    {
+      "name": "BOBBY",
+      "id": 7
+    },
+    {
+      "name": "EVAN",
+      "id": 8
+    },
+    {
+      "name": "JACK",
+      "id": 9
+    },
+    {
+      "name": "FRED",
+      "id": 10
+    },
+    {
+      "name": "DALLAS",
+      "id": 11
+    },
+    {
+      "name": "SUSAN ORTEGA",
+      "id": 12
+    },
+    {
+      "name": "ZOE",
+      "id": 13
+    },
+    {
+      "name": "DEBBIE",
+      "id": 14
+    },
+    {
+      "name": "PETE FINEMAN",
+      "id": 15
+    },
+    {
+      "name": "SUSAN",
+      "id": 16
+    },
+    {
+      "name": "DIRECTOR",
+      "id": 17
+    },
+    {
+      "name": "CONSOLE OPERATOR",
+      "id": 18
+    },
+    {
+      "name": "BILL",
+      "id": 19
+    },
+    {
+      "name": "CONTROL BOOTH OPERATOR",
+      "id": 20
+    },
+    {
+      "name": "PEDESTRIAN",
+      "id": 21
+    },
+    {
+      "name": "COMPUTERIZED",
+      "id": 22
+    },
+    {
+      "name": "JANITOR",
+      "id": 23
+    },
+    {
+      "name": "OFF. THE CLAPPER",
+      "id": 24
+    },
+    {
+      "name": "GOD",
+      "id": 25
+    },
+    {
+      "name": "PAUL NEWMAN",
+      "id": 26
+    },
+    {
+      "name": "PIT CREW",
+      "id": 27
+    },
+    {
+      "name": "WAITRESS",
+      "id": 28
+    },
+    {
+      "name": "CLERK",
+      "id": 29
+    },
+    {
+      "name": "GUY IN LINE",
+      "id": 30
+    },
+    {
+      "name": "BIG GUY",
+      "id": 31
+    },
+    {
+      "name": "I AM THE LORD THY BRUCE ALMIGHTY",
+      "id": 32
+    },
+    {
+      "name": "MORNING REPORTER",
+      "id": 33
+    },
+    {
+      "name": "TEENAGER",
+      "id": 34
+    },
+    {
+      "name": "PHIL",
+      "id": 35
+    },
+    {
+      "name": "TRAINER",
+      "id": 36
+    },
+    {
+      "name": "POLICEMAN",
+      "id": 37
+    },
+    {
+      "name": "CAMERAMAN",
+      "id": 38
+    },
+    {
+      "name": "DAN RATHER",
+      "id": 39
+    },
+    {
+      "name": "VARIOUS OFFICE STAFF",
+      "id": 40
+    },
+    {
+      "name": "FEMALE OFFICE WORKER",
+      "id": 41
+    },
+    {
+      "name": "BLUE HAIRED LADY",
+      "id": 42
+    },
+    {
+      "name": "BYSTANDERS",
+      "id": 43
+    },
+    {
+      "name": "NEWSCASTER",
+      "id": 44
+    },
+    {
+      "name": "CHILI CONTESTANTS",
+      "id": 45
+    },
+    {
+      "name": "MARGARITA",
+      "id": 46
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        0,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        7,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        9,
+        1,
+        10,
+        11,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        9,
+        7,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        13,
+        14
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        14,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        1,
+        0,
+        15,
+        16,
+        8
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        17,
+        18
+      ]
+    },
+    {
+      "character_ids": [
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        18,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        19
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        9,
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        21
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        0,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        0,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        26,
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        28,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        25,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        14,
+        29,
+        30
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        31
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        32
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        33
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        34,
+        0
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        35
+      ]
+    },
+    {
+      "character_ids": [
+        35,
+        0,
+        36,
+        37
+      ]
+    },
+    {
+      "character_ids": [
+        38,
+        39,
+        0,
+        35
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        40,
+        12,
+        0,
+        7,
+        41
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        8,
+        16
+      ]
+    },
+    {
+      "character_ids": [
+        17,
+        18,
+        8,
+        16,
+        11,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        42,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        43
+      ]
+    },
+    {
+      "character_ids": [
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        44
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        45
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        14,
+        3,
+        46
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        3
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        25,
+        0,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        3,
+        0
+      ]
+    }
+  ]
+}

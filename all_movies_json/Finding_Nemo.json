@@ -1,0 +1,337 @@
+{
+  "title": "Finding Nemo",
+  "year": 2003,
+  "genre": "Animation",
+  "box_office_usd": 941637960,
+  "box_office_display": "$941,637,960",
+  "character_count": 64,
+  "scene_count": 1,
+  "character_ids": [
+    {
+      "name": "MARLIN",
+      "id": 0
+    },
+    {
+      "name": "CORAL",
+      "id": 1
+    },
+    {
+      "name": "NEMO",
+      "id": 2
+    },
+    {
+      "name": "FISH KIDS",
+      "id": 3
+    },
+    {
+      "name": "FISH MOM",
+      "id": 4
+    },
+    {
+      "name": "CRAB KID",
+      "id": 5
+    },
+    {
+      "name": "BOB",
+      "id": 6
+    },
+    {
+      "name": "TED",
+      "id": 7
+    },
+    {
+      "name": "BILL",
+      "id": 8
+    },
+    {
+      "name": "KIDS",
+      "id": 9
+    },
+    {
+      "name": "MR. JOHANSSEN",
+      "id": 10
+    },
+    {
+      "name": "PEARL",
+      "id": 11
+    },
+    {
+      "name": "TAD",
+      "id": 12
+    },
+    {
+      "name": "SHELDON",
+      "id": 13
+    },
+    {
+      "name": "MR. RAY",
+      "id": 14
+    },
+    {
+      "name": "JIMMY",
+      "id": 15
+    },
+    {
+      "name": "FISH KID",
+      "id": 16
+    },
+    {
+      "name": "DIVER",
+      "id": 17
+    },
+    {
+      "name": "DORY",
+      "id": 18
+    },
+    {
+      "name": "BRUCE",
+      "id": 19
+    },
+    {
+      "name": "ANCHOR",
+      "id": 20
+    },
+    {
+      "name": "CHUM",
+      "id": 21
+    },
+    {
+      "name": "PELICAN",
+      "id": 22
+    },
+    {
+      "name": "DENTIST",
+      "id": 23
+    },
+    {
+      "name": "BARBARA",
+      "id": 24
+    },
+    {
+      "name": "PATIENT",
+      "id": 25
+    },
+    {
+      "name": "BUBBLES",
+      "id": 26
+    },
+    {
+      "name": "PEACH",
+      "id": 27
+    },
+    {
+      "name": "JACQUES",
+      "id": 28
+    },
+    {
+      "name": "BLOAT",
+      "id": 29
+    },
+    {
+      "name": "DEB",
+      "id": 30
+    },
+    {
+      "name": "GURGLE",
+      "id": 31
+    },
+    {
+      "name": "NIGEL",
+      "id": 32
+    },
+    {
+      "name": "GILL",
+      "id": 33
+    },
+    {
+      "name": "MOONFISH LEADER",
+      "id": 34
+    },
+    {
+      "name": "MOONFISH TED",
+      "id": 35
+    },
+    {
+      "name": "CRUSH",
+      "id": 36
+    },
+    {
+      "name": "SQUIRT",
+      "id": 37
+    },
+    {
+      "name": "TURTLE KIDS",
+      "id": 38
+    },
+    {
+      "name": "TURTLE KID 1",
+      "id": 39
+    },
+    {
+      "name": "TURTLE KID 2",
+      "id": 40
+    },
+    {
+      "name": "TURTLE KID 3",
+      "id": 41
+    },
+    {
+      "name": "TURTLE KID 4",
+      "id": 42
+    },
+    {
+      "name": "TURTLE KID 5",
+      "id": 43
+    },
+    {
+      "name": "TURTLE KID 6",
+      "id": 44
+    },
+    {
+      "name": "TURTLE KID",
+      "id": 45
+    },
+    {
+      "name": "SMALL FISH",
+      "id": 46
+    },
+    {
+      "name": "BIG FISH",
+      "id": 47
+    },
+    {
+      "name": "LOBSTER",
+      "id": 48
+    },
+    {
+      "name": "SWORDFISH",
+      "id": 49
+    },
+    {
+      "name": "DOLPHIN",
+      "id": 50
+    },
+    {
+      "name": "FEMALE BIRD",
+      "id": 51
+    },
+    {
+      "name": "MALE BIRD 1",
+      "id": 52
+    },
+    {
+      "name": "MALE BIRD 2",
+      "id": 53
+    },
+    {
+      "name": "MALE BIRD 3",
+      "id": 54
+    },
+    {
+      "name": "GULLS",
+      "id": 55
+    },
+    {
+      "name": "CRAB",
+      "id": 56
+    },
+    {
+      "name": "GULL",
+      "id": 57
+    },
+    {
+      "name": "AQUASCUM",
+      "id": 58
+    },
+    {
+      "name": "PELICANS",
+      "id": 59
+    },
+    {
+      "name": "DARLA",
+      "id": 60
+    },
+    {
+      "name": "CRAB 1",
+      "id": 61
+    },
+    {
+      "name": "CRAB 2",
+      "id": 62
+    },
+    {
+      "name": "FISH",
+      "id": 63
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ]
+    }
+  ]
+}

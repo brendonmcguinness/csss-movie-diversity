@@ -1,0 +1,822 @@
+{
+  "title": "Monsters, Inc.",
+  "year": 2001,
+  "genre": "Animation",
+  "box_office_usd": 579773055,
+  "box_office_display": "$579,773,055",
+  "character_count": 56,
+  "scene_count": 94,
+  "character_ids": [
+    {
+      "name": "MOTHER",
+      "id": 0
+    },
+    {
+      "name": "BOY",
+      "id": 1
+    },
+    {
+      "name": "FATHER",
+      "id": 2
+    },
+    {
+      "name": "COMPUTERIZED",
+      "id": 3
+    },
+    {
+      "name": "FLINT",
+      "id": 4
+    },
+    {
+      "name": "BILE",
+      "id": 5
+    },
+    {
+      "name": "WATERNOOSE",
+      "id": 6
+    },
+    {
+      "name": "RECRUIT",
+      "id": 7
+    },
+    {
+      "name": "RADIO D.J",
+      "id": 8
+    },
+    {
+      "name": "MIKE",
+      "id": 9
+    },
+    {
+      "name": "SULLIVAN",
+      "id": 10
+    },
+    {
+      "name": "ANNOUNCER",
+      "id": 11
+    },
+    {
+      "name": "FLOOR MANAGER",
+      "id": 12
+    },
+    {
+      "name": "WORKERS",
+      "id": 13
+    },
+    {
+      "name": "TINY MONSTER WIFE",
+      "id": 14
+    },
+    {
+      "name": "TINY MONSTER HUSBAND",
+      "id": 15
+    },
+    {
+      "name": "MONSTER KIDS",
+      "id": 16
+    },
+    {
+      "name": "MONSTER KID",
+      "id": 17
+    },
+    {
+      "name": "TONGUE MONSTER",
+      "id": 18
+    },
+    {
+      "name": "GIANT EYE MONSTER",
+      "id": 19
+    },
+    {
+      "name": "NEWSPAPER MONSTER",
+      "id": 20
+    },
+    {
+      "name": "TONY",
+      "id": 21
+    },
+    {
+      "name": "BLOBBY",
+      "id": 22
+    },
+    {
+      "name": "NEEDLEMAN",
+      "id": 23
+    },
+    {
+      "name": "SMITTY",
+      "id": 24
+    },
+    {
+      "name": "JERRY",
+      "id": 25
+    },
+    {
+      "name": "CELIA",
+      "id": 26
+    },
+    {
+      "name": "RANDALL",
+      "id": 27
+    },
+    {
+      "name": "ROZ",
+      "id": 28
+    },
+    {
+      "name": "OVERHEAD TRACK",
+      "id": 29
+    },
+    {
+      "name": "FUNGUS",
+      "id": 30
+    },
+    {
+      "name": "ASSISTANT",
+      "id": 31
+    },
+    {
+      "name": "SCARED MONSTER",
+      "id": 32
+    },
+    {
+      "name": "TENTACLED MONSTER",
+      "id": 33
+    },
+    {
+      "name": "MISC. MONSTER ADMIRERS",
+      "id": 34
+    },
+    {
+      "name": "CHARLIE",
+      "id": 35
+    },
+    {
+      "name": "GEORGE",
+      "id": 36
+    },
+    {
+      "name": "COMPUTER",
+      "id": 37
+    },
+    {
+      "name": "GIRL",
+      "id": 38
+    },
+    {
+      "name": "WAITERS",
+      "id": 39
+    },
+    {
+      "name": "HUMAN CHILD",
+      "id": 40
+    },
+    {
+      "name": "PHOTOGRAPHER",
+      "id": 41
+    },
+    {
+      "name": "MISC. MONSTER",
+      "id": 42
+    },
+    {
+      "name": "SUSHI CHEF",
+      "id": 43
+    },
+    {
+      "name": "CDA AGENT",
+      "id": 44
+    },
+    {
+      "name": "NEWSCASTER",
+      "id": 45
+    },
+    {
+      "name": "SCIENTIST",
+      "id": 46
+    },
+    {
+      "name": "FRANK",
+      "id": 47
+    },
+    {
+      "name": "LEAD CDA AGENT",
+      "id": 48
+    },
+    {
+      "name": "CDA AGENTS",
+      "id": 49
+    },
+    {
+      "name": "RANDOM ASSISTANT",
+      "id": 50
+    },
+    {
+      "name": "SIGHTING AT SUSHI RESTAURANT",
+      "id": 51
+    },
+    {
+      "name": "DAY CARE WORKER",
+      "id": 52
+    },
+    {
+      "name": "BOO",
+      "id": 53
+    },
+    {
+      "name": "DAY-CARE KIDS",
+      "id": 54
+    },
+    {
+      "name": "DAY CARE KID",
+      "id": 55
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10,
+        11,
+        12,
+        6,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10,
+        14,
+        15
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        16,
+        17,
+        10,
+        9,
+        18,
+        19
+      ]
+    },
+    {
+      "character_ids": [
+        20
+      ]
+    },
+    {
+      "character_ids": [
+        21,
+        10,
+        9,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        9
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10,
+        9,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "character_ids": [
+        26,
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10,
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        26,
+        29,
+        12,
+        23,
+        10,
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10,
+        27,
+        30
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        12,
+        31,
+        32,
+        23,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        33,
+        30,
+        27,
+        26,
+        34,
+        10,
+        6,
+        35,
+        9,
+        36,
+        37,
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        36,
+        12,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        12,
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        28,
+        26,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        38
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        39,
+        26,
+        9,
+        10,
+        40,
+        41,
+        38,
+        42,
+        43
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        26,
+        44
+      ]
+    },
+    {
+      "character_ids": [
+        44,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        45
+      ]
+    },
+    {
+      "character_ids": [
+        44
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        46
+      ]
+    },
+    {
+      "character_ids": [
+        38,
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10,
+        9,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        9,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10,
+        47
+      ]
+    },
+    {
+      "character_ids": [
+        48,
+        10,
+        9,
+        38,
+        6,
+        44,
+        49
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        38,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        9,
+        27,
+        44,
+        30
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        9,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        27,
+        50,
+        10,
+        26,
+        51
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        23,
+        24
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        52,
+        53
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        36,
+        35,
+        44
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10,
+        53,
+        54,
+        52,
+        55
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        10,
+        53,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        53
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        30,
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        27,
+        9,
+        30
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        9,
+        30
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        27
+      ]
+    },
+    {
+      "character_ids": [
+        9,
+        44,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        37,
+        6,
+        5,
+        10,
+        9
+      ]
+    }
+  ]
+}

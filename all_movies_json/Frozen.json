@@ -1,0 +1,657 @@
+{
+  "title": "Frozen",
+  "year": 2013,
+  "genre": "Animation",
+  "box_office_usd": 1284879663,
+  "box_office_display": "$1,284,879,663",
+  "character_count": 75,
+  "scene_count": 50,
+  "character_ids": [
+    {
+      "name": "HAS A FROZEN HEART WORTH MINING",
+      "id": 0
+    },
+    {
+      "name": "AND BREAK THE FROZEN HEART",
+      "id": 1
+    },
+    {
+      "name": "ICE HARVESTERS",
+      "id": 2
+    },
+    {
+      "name": "AND MOUNTAIN RAIN COMBINING",
+      "id": 3
+    },
+    {
+      "name": "BEWARE THE FROZEN HEART",
+      "id": 4
+    },
+    {
+      "name": "ANNA",
+      "id": 5
+    },
+    {
+      "name": "ELSA",
+      "id": 6
+    },
+    {
+      "name": "PLAY MONTAGE",
+      "id": 7
+    },
+    {
+      "name": "KING",
+      "id": 8
+    },
+    {
+      "name": "QUEEN",
+      "id": 9
+    },
+    {
+      "name": "KRISTOFF",
+      "id": 10
+    },
+    {
+      "name": "BULDA",
+      "id": 11
+    },
+    {
+      "name": "GRAND PABBIE",
+      "id": 12
+    },
+    {
+      "name": "PABBIE",
+      "id": 13
+    },
+    {
+      "name": "COME ON LET'S GO",
+      "id": 14
+    },
+    {
+      "name": "PLAY",
+      "id": 15
+    },
+    {
+      "name": "IT'S LIKE YOU'VE GONE AWAY",
+      "id": 16
+    },
+    {
+      "name": "I WISH YOU WOULD TELL ME WHY",
+      "id": 17
+    },
+    {
+      "name": "OKAY BYE",
+      "id": 18
+    },
+    {
+      "name": "I THINK SOME COMPANY IS OVERDUE",
+      "id": 19
+    },
+    {
+      "name": "THE PICTURES ON THE WALLS",
+      "id": 20
+    },
+    {
+      "name": "ALL THESE EMPTY ROOMS",
+      "id": 21
+    },
+    {
+      "name": "JUST WATCHING THE HOURS TICK BY",
+      "id": 22
+    },
+    {
+      "name": "TICK TOCK. TICK TOCK. TICK TOCK",
+      "id": 23
+    },
+    {
+      "name": "DOCK MASTER",
+      "id": 24
+    },
+    {
+      "name": "BOY",
+      "id": 25
+    },
+    {
+      "name": "MOTHER",
+      "id": 26
+    },
+    {
+      "name": "PERSI",
+      "id": 27
+    },
+    {
+      "name": "AGGIE",
+      "id": 28
+    },
+    {
+      "name": "DUKE",
+      "id": 29
+    },
+    {
+      "name": "IRISHMAN",
+      "id": 30
+    },
+    {
+      "name": "SPANISH DIGNITARY",
+      "id": 31
+    },
+    {
+      "name": "KAI",
+      "id": 32
+    },
+    {
+      "name": "I WON'T BE ALONE",
+      "id": 33
+    },
+    {
+      "name": "YOU ALWAYS HAVE TO BE",
+      "id": 34
+    },
+    {
+      "name": "AND EVERYONE WILL KNOW",
+      "id": 35
+    },
+    {
+      "name": "BUT IT'S ONLY FOR TODAY",
+      "id": 36
+    },
+    {
+      "name": "DON'T LET THEM KNOW",
+      "id": 37
+    },
+    {
+      "name": "HANS",
+      "id": 38
+    },
+    {
+      "name": "BISHOP",
+      "id": 39
+    },
+    {
+      "name": "KNOWN BEFORE",
+      "id": 40
+    },
+    {
+      "name": "LOVE IS AN OPEN DOOR",
+      "id": 41
+    },
+    {
+      "name": "MEANT TO BE",
+      "id": 42
+    },
+    {
+      "name": "BOWING TOWNSMAN",
+      "id": 43
+    },
+    {
+      "name": "TOWNSWOMAN WITH BABY",
+      "id": 44
+    },
+    {
+      "name": "CROWD WALLAH",
+      "id": 45
+    },
+    {
+      "name": "CAN'T HOLD IT BACK ANYMORE",
+      "id": 46
+    },
+    {
+      "name": "HERE I STAND",
+      "id": 47
+    },
+    {
+      "name": "HERE I'LL STAY",
+      "id": 48
+    },
+    {
+      "name": "I'M NEVER GOING BACK",
+      "id": 49
+    },
+    {
+      "name": "OAKEN",
+      "id": 50
+    },
+    {
+      "name": "NAKED FAMILY",
+      "id": 51
+    },
+    {
+      "name": "FOR ALL EXCEPT YOU",
+      "id": 52
+    },
+    {
+      "name": "DON'T LET THE FROSTBITE BITE",
+      "id": 53
+    },
+    {
+      "name": "OLAF",
+      "id": 54
+    },
+    {
+      "name": "WHATEVER SNOW DOES IN SUMMER",
+      "id": 55
+    },
+    {
+      "name": "SUMMER",
+      "id": 56
+    },
+    {
+      "name": "BAH BAH BOO",
+      "id": 57
+    },
+    {
+      "name": "RATDADAT DAD DADA DOO",
+      "id": 58
+    },
+    {
+      "name": "CITIZEN ONE",
+      "id": 59
+    },
+    {
+      "name": "CITIZEN TWO",
+      "id": 60
+    },
+    {
+      "name": "GERDA",
+      "id": 61
+    },
+    {
+      "name": "I WILL BE RIGHT HERE",
+      "id": 62
+    },
+    {
+      "name": "FREE",
+      "id": 63
+    },
+    {
+      "name": "WE CAN WORK THIS OUT TOGETHER",
+      "id": 64
+    },
+    {
+      "name": "WE CAN FACE THIS THING TOGETHER",
+      "id": 65
+    },
+    {
+      "name": "AND EVERYTHING WILL BE",
+      "id": 66
+    },
+    {
+      "name": "MARSHMALLOW",
+      "id": 67
+    },
+    {
+      "name": "TROLLS",
+      "id": 68
+    },
+    {
+      "name": "TROLL ONE",
+      "id": 69
+    },
+    {
+      "name": "TROLL TWO",
+      "id": 70
+    },
+    {
+      "name": "MUSHROOM KID TROLL",
+      "id": 71
+    },
+    {
+      "name": "TROLL SCOUT KID",
+      "id": 72
+    },
+    {
+      "name": "KIDNEY STONE TROLL",
+      "id": 73
+    },
+    {
+      "name": "PICK ME UP TROLL",
+      "id": 74
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        8,
+        10,
+        11,
+        12,
+        6,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        14,
+        15,
+        16,
+        17,
+        6,
+        5,
+        18,
+        8,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        25,
+        26,
+        10,
+        27,
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "character_ids": [
+        32,
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        33,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        34,
+        35,
+        36,
+        37,
+        5,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        39,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        32,
+        5,
+        6,
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        29,
+        6,
+        5,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        38,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        38,
+        6,
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        43,
+        44,
+        29,
+        6,
+        5,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        45,
+        38,
+        5,
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        50,
+        5,
+        10,
+        51
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        50
+      ]
+    },
+    {
+      "character_ids": [
+        50
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        52
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        53,
+        5,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        5
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        5,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        54,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        55,
+        56,
+        57,
+        58,
+        10,
+        5,
+        54
+      ]
+    },
+    {
+      "character_ids": [
+        59,
+        60,
+        38,
+        61,
+        29
+      ]
+    },
+    {
+      "character_ids": [
+        10,
+        5,
+        54
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        10,
+        54
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        10,
+        54
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        6,
+        54,
+        62,
+        63,
+        64,
+        65,
+        66,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        5,
+        54,
+        67,
+        10
+      ]
+    },
+    {
+      "character_ids": [
+        6
+      ]
+    },
+    {
+      "character_ids": [
+        54,
+        10,
+        5,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        11
+      ]
+    }
+  ]
+}

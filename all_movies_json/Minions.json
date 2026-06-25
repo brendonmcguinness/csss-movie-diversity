@@ -1,0 +1,851 @@
+{
+  "title": "Minions",
+  "year": 2015,
+  "genre": "Animation",
+  "box_office_usd": 1159457503,
+  "box_office_display": "$1,159,457,503",
+  "character_count": 73,
+  "scene_count": 88,
+  "character_ids": [
+    {
+      "name": "NARRATOR",
+      "id": 0
+    },
+    {
+      "name": "EXCITED MINION",
+      "id": 1
+    },
+    {
+      "name": "MINION 1",
+      "id": 2
+    },
+    {
+      "name": "MINION 2",
+      "id": 3
+    },
+    {
+      "name": "MINIONS",
+      "id": 4
+    },
+    {
+      "name": "MINION",
+      "id": 5
+    },
+    {
+      "name": "PHAROAH",
+      "id": 6
+    },
+    {
+      "name": "DRACULA",
+      "id": 7
+    },
+    {
+      "name": "CHEER",
+      "id": 8
+    },
+    {
+      "name": "NAPOLEON",
+      "id": 9
+    },
+    {
+      "name": "TIME LAPSE",
+      "id": 10
+    },
+    {
+      "name": "KEVIN",
+      "id": 11
+    },
+    {
+      "name": "BOB",
+      "id": 12
+    },
+    {
+      "name": "STUART",
+      "id": 13
+    },
+    {
+      "name": "BANANA KEVIN",
+      "id": 14
+    },
+    {
+      "name": "NEW YORK CITY",
+      "id": 15
+    },
+    {
+      "name": "SIGHTSEEING WOMAN",
+      "id": 16
+    },
+    {
+      "name": "SIGHTSEEING MAN",
+      "id": 17
+    },
+    {
+      "name": "INSTRUMENT DISPLAY",
+      "id": 18
+    },
+    {
+      "name": "DEPARTMENT STORE ANNOUNCER",
+      "id": 19
+    },
+    {
+      "name": "GAME SHOW HOST",
+      "id": 20
+    },
+    {
+      "name": "BACHELORETTE",
+      "id": 21
+    },
+    {
+      "name": "VNC SINGERS",
+      "id": 22
+    },
+    {
+      "name": "VNC BROADCASTER",
+      "id": 23
+    },
+    {
+      "name": "SCARLET OVERKILL",
+      "id": 24
+    },
+    {
+      "name": "IN STROLLER",
+      "id": 25
+    },
+    {
+      "name": "HIPPIE",
+      "id": 26
+    },
+    {
+      "name": "MADGE",
+      "id": 27
+    },
+    {
+      "name": "WALTER",
+      "id": 28
+    },
+    {
+      "name": "WALTER JR",
+      "id": 29
+    },
+    {
+      "name": "TINA",
+      "id": 30
+    },
+    {
+      "name": "NELSON FAMILY",
+      "id": 31
+    },
+    {
+      "name": "BANK ALARM",
+      "id": 32
+    },
+    {
+      "name": "COPS",
+      "id": 33
+    },
+    {
+      "name": "COP",
+      "id": 34
+    },
+    {
+      "name": "DAVE THE MINION",
+      "id": 35
+    },
+    {
+      "name": "YETI",
+      "id": 36
+    },
+    {
+      "name": "CREEPY",
+      "id": 37
+    },
+    {
+      "name": "GIGGLES",
+      "id": 38
+    },
+    {
+      "name": "HENCHMAN PLACEMENT SPECIALIST",
+      "id": 39
+    },
+    {
+      "name": "PROFESSOR FLUX",
+      "id": 40
+    },
+    {
+      "name": "FUTURE PROFESSOR FLUX",
+      "id": 41
+    },
+    {
+      "name": "HIGHLIGHT REEL ANNOUNCER",
+      "id": 42
+    },
+    {
+      "name": "ANNOUNCER",
+      "id": 43
+    },
+    {
+      "name": "MAN DRESSED AS SCARLET",
+      "id": 44
+    },
+    {
+      "name": "FRANKIE FISH-LIPS",
+      "id": 45
+    },
+    {
+      "name": "BIG GOON",
+      "id": 46
+    },
+    {
+      "name": "HERB OVERKILL",
+      "id": 47
+    },
+    {
+      "name": "HYPNO-HAT",
+      "id": 48
+    },
+    {
+      "name": "OF THE EARTH",
+      "id": 49
+    },
+    {
+      "name": "TICKET VENDOR",
+      "id": 50
+    },
+    {
+      "name": "BEEFEATER 1",
+      "id": 51
+    },
+    {
+      "name": "BEEFEATER 2",
+      "id": 52
+    },
+    {
+      "name": "KEEPER OF THE CROWN",
+      "id": 53
+    },
+    {
+      "name": "THE QUEEN",
+      "id": 54
+    },
+    {
+      "name": "BOBBIE 1",
+      "id": 55
+    },
+    {
+      "name": "BOBBIE 2",
+      "id": 56
+    },
+    {
+      "name": "SERGEANT",
+      "id": 57
+    },
+    {
+      "name": "MANHOLE",
+      "id": 58
+    },
+    {
+      "name": "BOBBIES",
+      "id": 59
+    },
+    {
+      "name": "BOBBIE",
+      "id": 60
+    },
+    {
+      "name": "BRITISH NEWS REPORTER",
+      "id": 61
+    },
+    {
+      "name": "ROYAL ADVISER",
+      "id": 62
+    },
+    {
+      "name": "THIN BUTLER",
+      "id": 63
+    },
+    {
+      "name": "BUTLER",
+      "id": 64
+    },
+    {
+      "name": "BRITISH NEWSCASTER 1",
+      "id": 65
+    },
+    {
+      "name": "FABRICE",
+      "id": 66
+    },
+    {
+      "name": "ARCHBISHOP",
+      "id": 67
+    },
+    {
+      "name": "SOVIET VILLAIN",
+      "id": 68
+    },
+    {
+      "name": "SUMO VILLAIN",
+      "id": 69
+    },
+    {
+      "name": "TRAIN STATION ANNOUNCER",
+      "id": 70
+    },
+    {
+      "name": "MINION ON PLATFORM",
+      "id": 71
+    },
+    {
+      "name": "BAR PATRON",
+      "id": 72
+    }
+  ],
+  "scenes": [
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        0,
+        1
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        5
+      ]
+    },
+    {
+      "character_ids": [
+        6,
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        9
+      ]
+    },
+    {
+      "character_ids": [
+        0
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        11,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        0,
+        12,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        16,
+        17,
+        12,
+        18,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        19,
+        11,
+        10,
+        20,
+        13,
+        21,
+        22
+      ]
+    },
+    {
+      "character_ids": [
+        23,
+        11,
+        24,
+        12,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        13,
+        12,
+        25
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11,
+        26,
+        13,
+        27,
+        28,
+        29,
+        30,
+        31,
+        12,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        35,
+        36
+      ]
+    },
+    {
+      "character_ids": [
+        30,
+        11,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        27,
+        28,
+        37
+      ]
+    },
+    {
+      "character_ids": [
+        13,
+        28,
+        30,
+        27,
+        4,
+        38
+      ]
+    },
+    {
+      "character_ids": [
+        39,
+        12,
+        40
+      ]
+    },
+    {
+      "character_ids": [
+        41,
+        40
+      ]
+    },
+    {
+      "character_ids": [
+        41
+      ]
+    },
+    {
+      "character_ids": [
+        42,
+        11,
+        43,
+        24,
+        4,
+        44,
+        45,
+        13,
+        46,
+        12,
+        28
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        35
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        24,
+        47,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        4,
+        24,
+        13,
+        47,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        35
+      ]
+    },
+    {
+      "character_ids": [
+        47,
+        12,
+        11,
+        13,
+        48,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        47,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        49
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        50,
+        12,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        51,
+        52,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        53,
+        13
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        54,
+        12,
+        55,
+        56
+      ]
+    },
+    {
+      "character_ids": [
+        57
+      ]
+    },
+    {
+      "character_ids": [
+        58
+      ]
+    },
+    {
+      "character_ids": [
+        54,
+        13
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        54,
+        59,
+        60
+      ]
+    },
+    {
+      "character_ids": [
+        61
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        4
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        62,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        63,
+        64,
+        13,
+        11,
+        24,
+        47,
+        62,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        65
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        11,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        47,
+        11,
+        24,
+        4
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        66,
+        47
+      ]
+    },
+    {
+      "character_ids": [
+        12,
+        11
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        12
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        44,
+        24
+      ]
+    },
+    {
+      "character_ids": [
+        24,
+        30,
+        47
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        13,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        11,
+        67,
+        47
+      ]
+    },
+    {
+      "character_ids": [
+        47,
+        11,
+        24,
+        28
+      ]
+    },
+    {
+      "character_ids": [
+        68,
+        11,
+        69,
+        70,
+        4,
+        71
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        54,
+        11,
+        72,
+        61,
+        24,
+        12
+      ]
+    },
+    {
+      "character_ids": [
+        54,
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        69
+      ]
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": []
+    },
+    {
+      "character_ids": [
+        69
+      ]
+    },
+    {
+      "character_ids": [
+        11
+      ]
+    },
+    {
+      "character_ids": [
+        69
+      ]
+    },
+    {
+      "character_ids": []
+    }
+  ]
+}
